@@ -1,0 +1,29 @@
+{
+  "name": "swiggy_type_app",
+  "version": "1.0.0",
+  "description": "An app just like swiggy",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mightyanubhav/swiggy_type_app.git"
+  },
+  "author": "Anubhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mightyanubhav/swiggy_type_app/issues"
+  },
+  "homepage": "https://github.com/mightyanubhav/swiggy_type_app#readme",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  }
+}
