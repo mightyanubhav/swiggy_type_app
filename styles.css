@@ -16,6 +16,7 @@
     color: #414448;
     box-shadow: 5px 0 15px rgba(0, 0, 0, 0.3);
     position:fixed;
+    z-index: 1;
 }
 
 .in-header {
@@ -210,20 +211,100 @@
     margin-top: 40px;
     
 }
-.card-container1{
+.card-container1 {
     height: 284.8px;
-    background-color: pink;
     margin-top: 20px;
     display: flex;
     overflow-x: scroll;
     padding: 16px;
+    gap: 16px;
+    /* border: 1px solid black; */
+    padding-bottom: 30px;
 }
-.card{
+
+.card {
     box-sizing: border-box;
     height: 100%;
-    background-color: purple;
-    min-width: 273;
-    border: 2px solid black;
+    min-width: 273px;
+    /* border: 2px solid black; */
+    box-sizing: border-box;
+    overflow-y: hidden;
 }
+
+.card-image {
+    position: relative;  /* Ensure positioning context for the text */
+    height: 182px; /* Fixed height for the image container */
+    width: 100%; /* Ensure the image container takes the full width */
+    overflow: hidden; /* Prevent the image from overflowing */
+    border-radius: 5px;
+    /* overflow-x: hidden; */
+}
+
+.card-images {
+    width: 100%; /* Ensure the image stretches across the entire container */
+    height: 100%; /* Make the image take the full height of the container */
+    object-fit: cover; /* Ensure the image covers the container without stretching */
+    border-radius: 20px;
+   
+}
+
+.card-image h1 {
+    position: absolute;  /* Position the header text on top of the image */
+    bottom: 10px; /* Adjust the position of the header from the bottom */
+    left: 10px; /* Position the text from the left */
+    color: white; /* White text to stand out against the image */
+    font-size: 18px; /* Adjust font size for the header */
+    font-weight: bold; /* Make the header bold */
+    background: rgba(0, 0, 0, 0.5); 
+    padding: 5px 10px; /* Padding for better readability */
+    border-radius: 4px; /* Optional: Rounded corners for the background */
+}
+
+.card-data{
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+}
+.restaurant-name {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.rating-time {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #4CAF50;
+   
+}
+
+.rating-star {
+    font-size: 16px;
+    background-color: green;
+    color: whitesmoke;
+    border-radius: 50px;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+}
+
+.rating-score, .dot, .time {
+    margin-left: 4px;
+    color: #333;
+}
+
+.tags, .location {
+    font-size: 14px;
+    color: #666;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 
 

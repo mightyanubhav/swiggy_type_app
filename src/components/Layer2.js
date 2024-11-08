@@ -3,7 +3,8 @@ import { faLeftLong } from "@fortawesome/free-solid-svg-icons";
 import { faRightLong } from "@fortawesome/free-solid-svg-icons";
 import Card from "./Card";
 
-const Layer2 = () =>{
+const Layer2 = ({data}) =>{
+    
     return (
         <div className="chain-container">
             <div className="mind-text">
@@ -18,20 +19,13 @@ const Layer2 = () =>{
                         </div>
             </div>
             <div className="card-container1">
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                <Card/>
-                {data.map((x) => (
-                    <Tiles key={x.id} id = {x.id} image = {x.imageId} />
-                ))}
+                
+                {
+                    data.map((x) => (
+                        <Card key={x.info.id} name = {x.info.name} image = {x.info.cloudinaryImageId} area = {x.info.areaName} rating = {x.info.avgRating} time = {x.info.sla.slaString} menu = {x.info.cuisines} items = {x.info.aggregatedDiscountInfoV3}/>
+                    ))
+                }
+               
 
             </div>
         </div>
