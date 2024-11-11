@@ -6,7 +6,7 @@ import Layer2 from "./Layer2";
 import Layer3 from "./Layer3";
 
 let  Body = () =>{
-    // console.log("happy");
+   
     // console.log(Data_Offline?.data?.cards[0]?.card?.card?.imageGridCards?.info);
     let data_layer_1 = Data_Offline?.data?.cards[0]?.card?.card?.imageGridCards?.info;
     let data_layer_2 = Data_Offline?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle.restaurants;

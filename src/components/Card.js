@@ -1,7 +1,7 @@
 const Card = ({ name, image, area, rating, time, menu, items }) => {
-    console.log(name);
+   
     const url = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/";
-    console.log(items);
+    
     const { header = "", subHeader = "", discountTag = "" } = items || {}; // Use default values if item is missing
 
     return (

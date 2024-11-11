@@ -338,3 +338,17 @@
     transition-duration: 0.4s;
     cursor: pointer;
 }
+.shimmer{
+    width: 100%;
+    background-color: #B4B5B7;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+}
+.shimmer-card{
+    width: 273px;
+    height: 300px;
+    margin: 25px;
+    background-color: gray;
+}

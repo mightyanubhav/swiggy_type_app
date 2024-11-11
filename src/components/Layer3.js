@@ -1,13 +1,21 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Card from "./Card";
+import getData from "./RandomFood";
+import Shimmer from "./Shimmer";
 const Layer3 = ({ data }) => {
 
-    console.log(data);
-    const [listOfRestaurant, setListOfRestaurant] = useState(data);
-    // const [a, b] = useState(data);
+    const [listOfRestaurant, setListOfRestaurant] = useState([]);
+   
+    const url2 = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=22.80570&lng=86.18040&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING";
+    
+    
+    useEffect(async ()=>{
+        const list = await getData(url2);
+        setListOfRestaurant(data);
+    }, []);
 
-    // const arr = useState(data);
-    // const [c, d] = arr; it is array dstructuring
+    if(listOfRestaurant.length === 0)
+        return <Shimmer />;
     return (
         <div className="layer3">
             <div className="layer3-top">
