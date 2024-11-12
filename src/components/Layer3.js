@@ -5,18 +5,26 @@ import Shimmer from "./Shimmer";
 const Layer3 = ({ data }) => {
 
     const [listOfRestaurant, setListOfRestaurant] = useState([]);
-   
+
     const url2 = "https://www.swiggy.com/dapi/restaurants/list/v5?lat=22.80570&lng=86.18040&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING";
-    
-    
-    useEffect(async ()=>{
-        const list = await getData(url2);
-        setListOfRestaurant(data);
+
+    useEffect(() => {
+        fetchRestaurants();
     }, []);
 
-    if(listOfRestaurant.length === 0)
-        return <Shimmer />;
-    return (
+    const fetchRestaurants = async () => {
+        try {
+            const list = await getData(url2);
+            setListOfRestaurant(data);
+        } catch (error) {
+            console.error("Failed to fetch data:", error);
+        }
+    };
+
+    //conditional rendering
+    // let log = "login";
+    const [log, setLog] = useState("login")
+    return listOfRestaurant.length === 0 ? <Shimmer /> : (
         <div className="layer3">
             <div className="layer3-top">
                 Restaurants with online food delivery in Jamshedpur
@@ -30,6 +38,9 @@ const Layer3 = ({ data }) => {
                         setListOfRestaurant(filter);
                     }
                 }>filter</button>
+                 <button className="layer3-filter-btn" onClick={()=>{
+                    log === "login" ? setLog("log-out") : setLog("login");
+                 }}> {log} </button>
             </div>
             <div className="layer3-cards">
                 {

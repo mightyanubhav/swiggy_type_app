@@ -319,6 +319,7 @@
     padding: 5px;
     border-radius: 15px;
     width: 75px;
+    margin-right: 5px;
 }
 .layer3-filter-btn:hover{
     scale: 0.9;
