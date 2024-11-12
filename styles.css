@@ -314,12 +314,22 @@
 }
 .layer3-options{
     padding: 16px;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
 }
 .layer3-filter-btn{
     padding: 5px;
     border-radius: 15px;
     width: 75px;
     margin-right: 5px;
+}
+.input-box{
+    padding: 5px;
+    border-radius: 15px;
+    width: 125px;
+    margin-right: 5px;
+    
 }
 .layer3-filter-btn:hover{
     scale: 0.9;
