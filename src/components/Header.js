@@ -7,7 +7,7 @@ import { faPercent } from "@fortawesome/free-solid-svg-icons";
 import { faCircleInfo } from "@fortawesome/free-solid-svg-icons";
 import { faUser } from "@fortawesome/free-regular-svg-icons";
 import { faCartShopping } from "@fortawesome/free-solid-svg-icons";
-
+import { Link } from "react-router-dom";
 const Header = () => {
     return (
         <div className="header">
@@ -33,27 +33,28 @@ const Header = () => {
                     <div className="nav-items">
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faBriefcase} />
-                            <p>Swiggy Corporate</p>
+                            <Link to="/corporate" className="custom-link"> Swiggy Corporate </Link>
+                            
                         </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faMagnifyingGlass} />
-                            <p>Search</p>
+                            <Link to="/search" className="custom-link"> Search </Link>
                         </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faPercent} />
-                            <p>Offers</p>
+                            <Link to="/offers" className="custom-link"> Offers </Link>
                         </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faCircleInfo} />
-                            <p>Help</p>
+                            <Link to="/help" className="custom-link"> Help </Link>
                         </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faUser} />
-                            <p>Sign in</p>
+                            <Link to="/sign-in" className="custom-link"> Sign in </Link>
                         </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faCartShopping} />
-                            <p>Cart</p>
+                            <Link to="/cart" className="custom-link"> Cart </Link>
                         </div>
                     </div>
                 </div>

@@ -7,6 +7,10 @@ import { createBrowserRouter, RouterProvider, Outlet } from 'react-router-dom';
 import Corporate from './components/Corporate';
 import Search from './components/Search';
 import Error from './components/Error';
+import Offers from './components/Offers';
+import Help from './components/Help';
+import SignIn from './components/SignIn';
+import Cart from './components/Cart';
 
 const Component = () =>{
     return (
@@ -34,6 +38,22 @@ const appRouter = createBrowserRouter([
             {
                 path: "/search",
                 element: <Search />
+            },
+            {
+                path: "/offers",
+                element: <Offers />
+            },
+            {
+                path: "/help",
+                element: <Help />
+            },
+            {
+                path: "/sign-in",
+                element: <SignIn />
+            },
+            {
+                path: "/cart",
+                element: <Cart />
             }
         ],
         errorElement: <Error />

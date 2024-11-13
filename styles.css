@@ -100,11 +100,21 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    
+}
+.custom-link {
+    color: #414448;
+    text-decoration: none;
 }
 
-.nav-content:hover {
+.nav-content:hover .custom-link{
     color: #ff5200;
     transition-duration: 0.2s;
+    cursor: pointer;
+}
+.nav-content:hover .icon {
+    color: #ff5200;
+    transition: color 0.2s;
     cursor: pointer;
 }
 
