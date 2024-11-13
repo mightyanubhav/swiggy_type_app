@@ -6,6 +6,7 @@ import { url2 } from "../utils/Constant";
 
 const Layer3 = ({ data }) => {
     const [listOfRestaurant, setListOfRestaurant] = useState([]);
+    const [tempListOfRestaurant, setTempListOfRestaurant] = useState([]);
     const [log, setLog] = useState("login");
     const [searchText, setSearchText] = useState("");
 
@@ -17,6 +18,7 @@ const Layer3 = ({ data }) => {
         try {
             const list = await getData(url2);
             setListOfRestaurant(data);
+            setTempListOfRestaurant(data);
         } catch (error) {
             console.error("Failed to fetch data:", error);
         }
@@ -27,7 +29,7 @@ const Layer3 = ({ data }) => {
     ) : (
         <div className="layer3">
             <div className="layer3-top">
-                Restaurants with online food delivery in Jamshedpur
+                Restaurants with online food delivery in Patna.
             </div>
             <div className="layer3-options">
                 <button
@@ -64,7 +66,11 @@ const Layer3 = ({ data }) => {
                     <button
                         className="layer3-filter-btn"
                         onClick={() => {
-                            console.log(searchText);
+                            // console.log(searchText);
+                            const filteredList = listOfRestaurant.filter((x) =>
+                                x.info.name.toLowerCase().includes(searchText.toLowerCase())
+                              );
+                            setTempListOfRestaurant(filteredList);
                         }}
                     >
                         Search
@@ -72,7 +78,7 @@ const Layer3 = ({ data }) => {
                 </div>
             </div>
             <div className="layer3-cards">
-                {listOfRestaurant.map((x) => (
+                {tempListOfRestaurant.map((x) => (
                     <Card
                         key={x.info.id}
                         name={x.info.name}
