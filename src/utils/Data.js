@@ -3,7 +3,7 @@ const Data_Offline = {
   "data": {
     "statusMessage": "done successfully",
     "pageOffset": {
-      "nextOffset": "CJhlELQ4KIC4rof+88mPaTCnEzgE",
+      "nextOffset": "CJhlELQ4KICg3PPA5/bxbTCnEzgE",
       "widgetOffset": {
         "NewListingView_category_bar_chicletranking_TwoRows": "",
         "NewListingView_category_bar_chicletranking_TwoRows_Rendition": "",
@@ -102,19 +102,19 @@ const Data_Offline = {
                   }
                 },
                 {
-                  "id": "750222",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
+                  "id": "750581",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
                   "action": {
-                    "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
-                    "text": "Rolls",
+                    "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
+                    "text": "North Indian",
                     "type": "WEBLINK"
                   },
                   "entityType": "BANNER",
                   "accessibility": {
-                    "altText": "restaurants curated for roll",
+                    "altText": "restaurants curated for north indian",
                     "altTextCta": "open"
                   },
-                  "entityId": "swiggy://collectionV2?collection_id=83669&tags=layout_CCS_Rolls",
+                  "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
                   "frequencyCapping": {
                     
                   },
@@ -165,40 +165,19 @@ const Data_Offline = {
                   }
                 },
                 {
-                  "id": "750581",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
+                  "id": "750222",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
                   "action": {
-                    "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
-                    "text": "North Indian",
+                    "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                    "text": "Rolls",
                     "type": "WEBLINK"
                   },
                   "entityType": "BANNER",
                   "accessibility": {
-                    "altText": "restaurants curated for north indian",
+                    "altText": "restaurants curated for roll",
                     "altTextCta": "open"
                   },
-                  "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
-                  "frequencyCapping": {
-                    
-                  },
-                  "externalMarketing": {
-                    
-                  }
-                },
-                {
-                  "id": "749768",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Momos.png",
-                  "action": {
-                    "link": "https://www.swiggy.com/collections/80461?collection_id=80461&tags=layout_CCS_Momos&type=rcv2",
-                    "text": "Momos",
-                    "type": "WEBLINK"
-                  },
-                  "entityType": "BANNER",
-                  "accessibility": {
-                    "altText": "restaurant curated for momos",
-                    "altTextCta": "open"
-                  },
-                  "entityId": "swiggy://collectionV2?collection_id=80461&tags=layout_CCS_Momos",
+                  "entityId": "swiggy://collectionV2?collection_id=83669&tags=layout_CCS_Rolls",
                   "frequencyCapping": {
                     
                   },
@@ -228,6 +207,48 @@ const Data_Offline = {
                   }
                 },
                 {
+                  "id": "749768",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Momos.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80461?collection_id=80461&tags=layout_CCS_Momos&type=rcv2",
+                    "text": "Momos",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for momos",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=80461&tags=layout_CCS_Momos",
+                  "frequencyCapping": {
+                    
+                  },
+                  "externalMarketing": {
+                    
+                  }
+                },
+                {
+                  "id": "750201",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
+                    "text": "Paratha",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for paratha",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
+                  "frequencyCapping": {
+                    
+                  },
+                  "externalMarketing": {
+                    
+                  }
+                },
+                {
                   "id": "749868",
                   "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
                   "action": {
@@ -241,27 +262,6 @@ const Data_Offline = {
                     "altTextCta": "open"
                   },
                   "entityId": "swiggy://collectionV2?collection_id=83655&tags=layout_CCS_Cake",
-                  "frequencyCapping": {
-                    
-                  },
-                  "externalMarketing": {
-                    
-                  }
-                },
-                {
-                  "id": "750206",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
-                  "action": {
-                    "link": "https://www.swiggy.com/collections/80479?collection_id=80479&search_context=pasta&tags=layout_CCS_Pasta&type=rcv2",
-                    "text": "Pasta",
-                    "type": "WEBLINK"
-                  },
-                  "entityType": "BANNER",
-                  "accessibility": {
-                    "altText": "restaurant curated for pasta",
-                    "altTextCta": "open"
-                  },
-                  "entityId": "swiggy://collectionV2?collection_id=80479&tags=layout_CCS_Pasta&search_context=pasta",
                   "frequencyCapping": {
                     
                   },
@@ -312,69 +312,6 @@ const Data_Offline = {
                   }
                 },
                 {
-                  "id": "750596",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
-                  "action": {
-                    "link": "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
-                    "text": "Ice Cream",
-                    "type": "WEBLINK"
-                  },
-                  "entityType": "BANNER",
-                  "accessibility": {
-                    "altText": "restaurants curated for icecream",
-                    "altTextCta": "open"
-                  },
-                  "entityId": "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
-                  "frequencyCapping": {
-                    
-                  },
-                  "externalMarketing": {
-                    
-                  }
-                },
-                {
-                  "id": "750208",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
-                  "action": {
-                    "link": "https://www.swiggy.com/collections/80355?collection_id=80355&tags=layout_CCS_Pastry&type=rcv2",
-                    "text": "Pastry",
-                    "type": "WEBLINK"
-                  },
-                  "entityType": "BANNER",
-                  "accessibility": {
-                    "altText": "restaurant curated for Pastry",
-                    "altTextCta": "open"
-                  },
-                  "entityId": "swiggy://collectionV2?collection_id=80355&tags=layout_CCS_Pastry",
-                  "frequencyCapping": {
-                    
-                  },
-                  "externalMarketing": {
-                    
-                  }
-                },
-                {
-                  "id": "750201",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
-                  "action": {
-                    "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
-                    "text": "Paratha",
-                    "type": "WEBLINK"
-                  },
-                  "entityType": "BANNER",
-                  "accessibility": {
-                    "altText": "restaurants curated for paratha",
-                    "altTextCta": "open"
-                  },
-                  "entityId": "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
-                  "frequencyCapping": {
-                    
-                  },
-                  "externalMarketing": {
-                    
-                  }
-                },
-                {
                   "id": "750571",
                   "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pure Veg.png",
                   "action": {
@@ -388,6 +325,27 @@ const Data_Offline = {
                     "altTextCta": "open"
                   },
                   "entityId": "swiggy://collectionV2?collection_id=80435&tags=layout_CCS_PureVeg",
+                  "frequencyCapping": {
+                    
+                  },
+                  "externalMarketing": {
+                    
+                  }
+                },
+                {
+                  "id": "750596",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
+                    "text": "Ice Cream",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurants curated for icecream",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
                   "frequencyCapping": {
                     
                   },
@@ -438,6 +396,48 @@ const Data_Offline = {
                   }
                 },
                 {
+                  "id": "750260",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Rasmalai.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80390?collection_id=80390&tags=layout_BAU_Contextual%2Crasmalai&type=rcv2",
+                    "text": "Rasmalai",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for rasmalai",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "80390",
+                  "frequencyCapping": {
+                    
+                  },
+                  "externalMarketing": {
+                    
+                  }
+                },
+                {
+                  "id": "750206",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
+                  "action": {
+                    "link": "https://www.swiggy.com/collections/80479?collection_id=80479&search_context=pasta&tags=layout_CCS_Pasta&type=rcv2",
+                    "text": "Pasta",
+                    "type": "WEBLINK"
+                  },
+                  "entityType": "BANNER",
+                  "accessibility": {
+                    "altText": "restaurant curated for pasta",
+                    "altTextCta": "open"
+                  },
+                  "entityId": "swiggy://collectionV2?collection_id=80479&tags=layout_CCS_Pasta&search_context=pasta",
+                  "frequencyCapping": {
+                    
+                  },
+                  "externalMarketing": {
+                    
+                  }
+                },
+                {
                   "id": "750248",
                   "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_shawarma.png",
                   "action": {
@@ -459,19 +459,19 @@ const Data_Offline = {
                   }
                 },
                 {
-                  "id": "750586",
-                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Gulab jamun.png",
+                  "id": "750208",
+                  "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
                   "action": {
-                    "link": "https://www.swiggy.com/collections/80430?collection_id=80430&tags=layout_BAU_Contextual%2Cgulab_jamun&type=rcv2",
-                    "text": "Gulab Jamun",
+                    "link": "https://www.swiggy.com/collections/80355?collection_id=80355&tags=layout_CCS_Pastry&type=rcv2",
+                    "text": "Pastry",
                     "type": "WEBLINK"
                   },
                   "entityType": "BANNER",
                   "accessibility": {
-                    "altText": "restaurant curated for gulab jamun",
+                    "altText": "restaurant curated for Pastry",
                     "altTextCta": "open"
                   },
-                  "entityId": "80430",
+                  "entityId": "swiggy://collectionV2?collection_id=80355&tags=layout_CCS_Pastry",
                   "frequencyCapping": {
                     
                   },
@@ -541,19 +541,19 @@ const Data_Offline = {
                     }
                   },
                   {
-                    "id": "750222",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
+                    "id": "750581",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
-                      "text": "Rolls",
+                      "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
+                      "text": "North Indian",
                       "type": "WEBLINK"
                     },
                     "entityType": "BANNER",
                     "accessibility": {
-                      "altText": "restaurants curated for roll",
+                      "altText": "restaurants curated for north indian",
                       "altTextCta": "open"
                     },
-                    "entityId": "swiggy://collectionV2?collection_id=83669&tags=layout_CCS_Rolls",
+                    "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
                     "frequencyCapping": {
                       
                     },
@@ -604,40 +604,19 @@ const Data_Offline = {
                     }
                   },
                   {
-                    "id": "750581",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_North Indian.png",
+                    "id": "750222",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/17/58760e8e-324f-479e-88fa-31800120ea38_Rolls1.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/83633?collection_id=83633&search_context=northindian&tags=layout_CCS_NorthIndian&type=rcv2",
-                      "text": "North Indian",
+                      "link": "https://www.swiggy.com/collections/83669?collection_id=83669&tags=layout_CCS_Rolls&type=rcv2",
+                      "text": "Rolls",
                       "type": "WEBLINK"
                     },
                     "entityType": "BANNER",
                     "accessibility": {
-                      "altText": "restaurants curated for north indian",
+                      "altText": "restaurants curated for roll",
                       "altTextCta": "open"
                     },
-                    "entityId": "swiggy://collectionV2?collection_id=83633&tags=layout_CCS_NorthIndian&search_context=northindian",
-                    "frequencyCapping": {
-                      
-                    },
-                    "externalMarketing": {
-                      
-                    }
-                  },
-                  {
-                    "id": "749768",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Momos.png",
-                    "action": {
-                      "link": "https://www.swiggy.com/collections/80461?collection_id=80461&tags=layout_CCS_Momos&type=rcv2",
-                      "text": "Momos",
-                      "type": "WEBLINK"
-                    },
-                    "entityType": "BANNER",
-                    "accessibility": {
-                      "altText": "restaurant curated for momos",
-                      "altTextCta": "open"
-                    },
-                    "entityId": "swiggy://collectionV2?collection_id=80461&tags=layout_CCS_Momos",
+                    "entityId": "swiggy://collectionV2?collection_id=83669&tags=layout_CCS_Rolls",
                     "frequencyCapping": {
                       
                     },
@@ -667,6 +646,48 @@ const Data_Offline = {
                     }
                   },
                   {
+                    "id": "749768",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Momos.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80461?collection_id=80461&tags=layout_CCS_Momos&type=rcv2",
+                      "text": "Momos",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for momos",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=80461&tags=layout_CCS_Momos",
+                    "frequencyCapping": {
+                      
+                    },
+                    "externalMarketing": {
+                      
+                    }
+                  },
+                  {
+                    "id": "750201",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
+                      "text": "Paratha",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for paratha",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
+                    "frequencyCapping": {
+                      
+                    },
+                    "externalMarketing": {
+                      
+                    }
+                  },
+                  {
                     "id": "749868",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_cake.png",
                     "action": {
@@ -680,27 +701,6 @@ const Data_Offline = {
                       "altTextCta": "open"
                     },
                     "entityId": "swiggy://collectionV2?collection_id=83655&tags=layout_CCS_Cake",
-                    "frequencyCapping": {
-                      
-                    },
-                    "externalMarketing": {
-                      
-                    }
-                  },
-                  {
-                    "id": "750206",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
-                    "action": {
-                      "link": "https://www.swiggy.com/collections/80479?collection_id=80479&search_context=pasta&tags=layout_CCS_Pasta&type=rcv2",
-                      "text": "Pasta",
-                      "type": "WEBLINK"
-                    },
-                    "entityType": "BANNER",
-                    "accessibility": {
-                      "altText": "restaurant curated for pasta",
-                      "altTextCta": "open"
-                    },
-                    "entityId": "swiggy://collectionV2?collection_id=80479&tags=layout_CCS_Pasta&search_context=pasta",
                     "frequencyCapping": {
                       
                     },
@@ -751,69 +751,6 @@ const Data_Offline = {
                     }
                   },
                   {
-                    "id": "750596",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
-                    "action": {
-                      "link": "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
-                      "text": "Ice Cream",
-                      "type": "WEBLINK"
-                    },
-                    "entityType": "BANNER",
-                    "accessibility": {
-                      "altText": "restaurants curated for icecream",
-                      "altTextCta": "open"
-                    },
-                    "entityId": "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
-                    "frequencyCapping": {
-                      
-                    },
-                    "externalMarketing": {
-                      
-                    }
-                  },
-                  {
-                    "id": "750208",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
-                    "action": {
-                      "link": "https://www.swiggy.com/collections/80355?collection_id=80355&tags=layout_CCS_Pastry&type=rcv2",
-                      "text": "Pastry",
-                      "type": "WEBLINK"
-                    },
-                    "entityType": "BANNER",
-                    "accessibility": {
-                      "altText": "restaurant curated for Pastry",
-                      "altTextCta": "open"
-                    },
-                    "entityId": "swiggy://collectionV2?collection_id=80355&tags=layout_CCS_Pastry",
-                    "frequencyCapping": {
-                      
-                    },
-                    "externalMarketing": {
-                      
-                    }
-                  },
-                  {
-                    "id": "750201",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Paratha.png",
-                    "action": {
-                      "link": "https://www.swiggy.com/collections/80475?collection_id=80475&tags=layout_CCS_Paratha&type=rcv2",
-                      "text": "Paratha",
-                      "type": "WEBLINK"
-                    },
-                    "entityType": "BANNER",
-                    "accessibility": {
-                      "altText": "restaurants curated for paratha",
-                      "altTextCta": "open"
-                    },
-                    "entityId": "swiggy://collectionV2?collection_id=80475&tags=layout_CCS_Paratha",
-                    "frequencyCapping": {
-                      
-                    },
-                    "externalMarketing": {
-                      
-                    }
-                  },
-                  {
                     "id": "750571",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Pure Veg.png",
                     "action": {
@@ -827,6 +764,27 @@ const Data_Offline = {
                       "altTextCta": "open"
                     },
                     "entityId": "swiggy://collectionV2?collection_id=80435&tags=layout_CCS_PureVeg",
+                    "frequencyCapping": {
+                      
+                    },
+                    "externalMarketing": {
+                      
+                    }
+                  },
+                  {
+                    "id": "750596",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_chocolate icecream.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/83640?collection_id=83640&tags=layout_CCS_IceCreams&type=rcv2",
+                      "text": "Ice Cream",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurants curated for icecream",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=83640&tags=layout_CCS_IceCreams",
                     "frequencyCapping": {
                       
                     },
@@ -877,6 +835,48 @@ const Data_Offline = {
                     }
                   },
                   {
+                    "id": "750260",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/8f508de7-e0ac-4ba8-b54d-def9db98959e_Rasmalai.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80390?collection_id=80390&tags=layout_BAU_Contextual%2Crasmalai&type=rcv2",
+                      "text": "Rasmalai",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for rasmalai",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "80390",
+                    "frequencyCapping": {
+                      
+                    },
+                    "externalMarketing": {
+                      
+                    }
+                  },
+                  {
+                    "id": "750206",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pasta.png",
+                    "action": {
+                      "link": "https://www.swiggy.com/collections/80479?collection_id=80479&search_context=pasta&tags=layout_CCS_Pasta&type=rcv2",
+                      "text": "Pasta",
+                      "type": "WEBLINK"
+                    },
+                    "entityType": "BANNER",
+                    "accessibility": {
+                      "altText": "restaurant curated for pasta",
+                      "altTextCta": "open"
+                    },
+                    "entityId": "swiggy://collectionV2?collection_id=80479&tags=layout_CCS_Pasta&search_context=pasta",
+                    "frequencyCapping": {
+                      
+                    },
+                    "externalMarketing": {
+                      
+                    }
+                  },
+                  {
                     "id": "750248",
                     "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_shawarma.png",
                     "action": {
@@ -898,19 +898,19 @@ const Data_Offline = {
                     }
                   },
                   {
-                    "id": "750586",
-                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/6ef07bda-b707-48ea-9b14-2594071593d1_Gulab jamun.png",
+                    "id": "750208",
+                    "imageId": "MERCHANDISING_BANNERS/IMAGES/MERCH/2024/7/2/f1263395-5d4a-4775-95dc-80ab6f3bbd89_pastry.png",
                     "action": {
-                      "link": "https://www.swiggy.com/collections/80430?collection_id=80430&tags=layout_BAU_Contextual%2Cgulab_jamun&type=rcv2",
-                      "text": "Gulab Jamun",
+                      "link": "https://www.swiggy.com/collections/80355?collection_id=80355&tags=layout_CCS_Pastry&type=rcv2",
+                      "text": "Pastry",
                       "type": "WEBLINK"
                     },
                     "entityType": "BANNER",
                     "accessibility": {
-                      "altText": "restaurant curated for gulab jamun",
+                      "altText": "restaurant curated for Pastry",
                       "altTextCta": "open"
                     },
-                    "entityId": "80430",
+                    "entityId": "swiggy://collectionV2?collection_id=80355&tags=layout_CCS_Pastry",
                     "frequencyCapping": {
                       
                     },
@@ -941,7 +941,7 @@ const Data_Offline = {
           "card": {
             "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
             "header": {
-              "title": "Top restaurant chains in Jamshedpur",
+              "title": "Top restaurant chains in Patna",
               "action": {
                 
               },
@@ -998,35 +998,36 @@ const Data_Offline = {
                 "restaurants": [
                   {
                     "info": {
-                      "id": "101351",
-                      "name": "Pizza Hut",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/4cfac2b6-a134-4d20-bedd-54aeafa2a554_101351.jpg",
-                      "locality": "Hi Tech City Centre",
-                      "areaName": "Bistupur",
+                      "id": "654087",
+                      "name": "Burger King",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/60497022-434e-4d21-bc0e-813fea770ae5_654087.JPG",
+                      "locality": "SP Verma Road",
+                      "areaName": "Lodipur",
                       "costForTwo": "₹350 for two",
                       "cuisines": [
-                        "Pizzas"
+                        "Burgers",
+                        "American"
                       ],
                       "avgRating": 4.2,
-                      "parentId": "721",
+                      "parentId": "166",
                       "avgRatingString": "4.2",
-                      "totalRatingsString": "5.1K+",
+                      "totalRatingsString": "11K+",
                       "sla": {
-                        "deliveryTime": 46,
-                        "lastMileTravel": 3,
+                        "deliveryTime": 36,
+                        "lastMileTravel": 3.5,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "45-50 mins",
-                        "lastMileTravelString": "3.0 km",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "3.5 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
+                        "nextCloseTime": "2024-11-14 06:00:00",
                         "opened": true
                       },
                       "badges": {
                         "imageBadges": [
                           {
-                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
                             "description": "Delivery!"
                           }
                         ]
@@ -1040,7 +1041,7 @@ const Data_Offline = {
                               {
                                 "attributes": {
                                   "description": "Delivery!",
-                                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png"
                                 }
                               }
                             ]
@@ -1055,7 +1056,7 @@ const Data_Offline = {
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹189"
+                        "subHeader": "AT ₹99"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1083,20 +1084,20 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/pizza-hut-hi-tech-city-centre-bistupur-rest101351",
+                      "link": "https://www.swiggy.com/city/patna/burger-king-sp-verma-road-lodipur-rest654087",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
-                      "id": "97199",
+                      "id": "620953",
                       "name": "Domino's Pizza",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/24/e955ae83-bede-4c3f-97c3-f6c438991c2d_97199.JPG",
-                      "locality": "South Park",
-                      "areaName": "Bistupur",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/24/f11e10fe-7940-4f84-8e8c-b2870cdff553_620953.JPG",
+                      "locality": "Karbighiya",
+                      "areaName": "Kankarbagh",
                       "costForTwo": "₹400 for two",
                       "cuisines": [
                         "Pizzas",
@@ -1104,20 +1105,20 @@ const Data_Offline = {
                         "Pastas",
                         "Desserts"
                       ],
-                      "avgRating": 4.4,
+                      "avgRating": 4.3,
                       "parentId": "2456",
-                      "avgRatingString": "4.4",
-                      "totalRatingsString": "2.7K+",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "879",
                       "sla": {
                         "deliveryTime": 25,
-                        "lastMileTravel": 1.9,
+                        "lastMileTravel": 1.4,
                         "serviceability": "SERVICEABLE",
                         "slaString": "20-25 mins",
-                        "lastMileTravelString": "1.9 km",
+                        "lastMileTravelString": "1.4 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:59:00",
+                        "nextCloseTime": "2024-11-14 03:00:00",
                         "opened": true
                       },
                       "badges": {
@@ -1181,45 +1182,44 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/dominos-pizza-south-park-bistupur-rest97199",
+                      "link": "https://www.swiggy.com/city/patna/dominos-pizza-karbighiya-kankarbagh-rest620953",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
-                      "id": "804610",
-                      "name": "Burger King",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/a5cee281-c25f-494a-8cab-ba7f49acfb03_804610.JPG",
-                      "locality": "P & M Mall",
-                      "areaName": "Jamshedpur",
+                      "id": "725082",
+                      "name": "Pizza Hut",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/18/6661c5e8-d8dc-4f85-bda0-8362bd975ded_725082.jpg",
+                      "locality": "Kankar Bagh",
+                      "areaName": "Kankarbagh",
                       "costForTwo": "₹350 for two",
                       "cuisines": [
-                        "Burgers",
-                        "American"
+                        "Pizzas"
                       ],
-                      "avgRating": 4.3,
-                      "parentId": "166",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "1.7K+",
+                      "avgRating": 4.2,
+                      "parentId": "721",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1.9K+",
                       "sla": {
-                        "deliveryTime": 43,
+                        "deliveryTime": 34,
                         "lastMileTravel": 3,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "40-45 mins",
+                        "slaString": "30-35 mins",
                         "lastMileTravelString": "3.0 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
+                        "nextCloseTime": "2024-11-14 01:00:00",
                         "opened": true
                       },
                       "badges": {
                         "imageBadges": [
                           {
-                            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
                             "description": "Delivery!"
                           }
                         ]
@@ -1233,7 +1233,7 @@ const Data_Offline = {
                               {
                                 "attributes": {
                                   "description": "Delivery!",
-                                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png"
+                                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
                                 }
                               }
                             ]
@@ -1247,8 +1247,8 @@ const Data_Offline = {
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "ITEMS",
-                        "subHeader": "AT ₹99"
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1276,40 +1276,38 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/burger-king-p-and-m-mall-jamshedpur-rest804610",
+                      "link": "https://www.swiggy.com/city/patna/pizza-hut-kankar-bagh-kankarbagh-rest725082",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
-                      "id": "126738",
-                      "name": "KFC",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/0704d315-5159-4ebd-90d9-ebb36572bc4a_126738.JPG",
-                      "locality": "SNP Area",
-                      "areaName": "Sakchi",
+                      "id": "254135",
+                      "name": "McDonald's",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/22/be4a4734-451a-46bc-9b3c-c8efe92b68f0_254135.JPG",
+                      "locality": "Gardanibagh",
+                      "areaName": "Golambar",
                       "costForTwo": "₹400 for two",
                       "cuisines": [
-                        "Burgers",
-                        "Fast Food",
-                        "Rolls & Wraps"
+                        "American"
                       ],
                       "avgRating": 4.4,
-                      "parentId": "547",
+                      "parentId": "630",
                       "avgRatingString": "4.4",
-                      "totalRatingsString": "9.8K+",
+                      "totalRatingsString": "18K+",
                       "sla": {
-                        "deliveryTime": 26,
-                        "lastMileTravel": 2.7,
+                        "deliveryTime": 37,
+                        "lastMileTravel": 4.5,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "25-30 mins",
-                        "lastMileTravelString": "2.7 km",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "4.5 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-09 02:00:00",
+                        "nextCloseTime": "2024-11-14 01:00:00",
                         "opened": true
                       },
                       "badges": {
@@ -1344,7 +1342,7 @@ const Data_Offline = {
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹179"
+                        "subHeader": "AT ₹129"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1366,230 +1364,60 @@ const Data_Offline = {
                       },
                       "externalRatings": {
                         "aggregatedRating": {
-                          "rating": "--"
-                        }
+                          "rating": "4.1",
+                          "ratingCount": "23K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
                       },
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/kfc-snp-area-sakchi-rest126738",
+                      "link": "https://www.swiggy.com/city/patna/mcdonalds-gardanibagh-golambar-rest254135",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
-                      "id": "129550",
-                      "name": "Asian Inn",
-                      "cloudinaryImageId": "e25f8d3921204c82a1f63e5e2b9a4b22",
-                      "locality": "Dhatidih Market Road",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹799 for two",
+                      "id": "81235",
+                      "name": "KFC",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/681ee978-c071-4989-bb27-32e5cc7643f9_81235.JPG",
+                      "locality": "Kankarbagh",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹450 for two",
                       "cuisines": [
-                        "Indian",
-                        "Biryani",
-                        "Chinese",
-                        "Tandoor",
-                        "Momos"
+                        "Burgers",
+                        "Fast Food",
+                        "Rolls & Wraps"
                       ],
-                      "avgRating": 4.3,
-                      "parentId": "37195",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "15K+",
+                      "avgRating": 4.4,
+                      "parentId": "547",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "9.1K+",
                       "sla": {
-                        "deliveryTime": 29,
-                        "lastMileTravel": 0.3,
+                        "deliveryTime": 32,
+                        "lastMileTravel": 2.7,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "25-30 mins",
-                        "lastMileTravelString": "0.3 km",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "2.7 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "₹150 OFF",
-                        "subHeader": "ABOVE ₹349",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/asian-inn-dhatidih-market-road-bistupur-rest129550",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "665455",
-                      "name": "New Kolkata Royal Biryani",
-                      "cloudinaryImageId": "be2bfa3b5dde1e71b41144e9b62878a9",
-                      "locality": "B Block",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹249 for two",
-                      "cuisines": [
-                        "Biryani"
-                      ],
-                      "avgRating": 4,
-                      "parentId": "147028",
-                      "avgRatingString": "4.0",
-                      "totalRatingsString": "2.2K+",
-                      "sla": {
-                        "deliveryTime": 11,
-                        "lastMileTravel": 0.5,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "10-15 mins",
-                        "lastMileTravelString": "0.5 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 22:30:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹249",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/new-kolkata-royal-biryani-b-block-bistupur-rest665455",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "154840",
-                      "name": "Anand",
-                      "cloudinaryImageId": "virdsxocivnjsi71vsys",
-                      "locality": "J Road",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹299 for two",
-                      "cuisines": [
-                        "South Indian",
-                        "Chinese"
-                      ],
-                      "avgRating": 4.6,
-                      "veg": true,
-                      "parentId": "7181",
-                      "avgRatingString": "4.6",
-                      "totalRatingsString": "6.5K+",
-                      "sla": {
-                        "deliveryTime": 22,
-                        "lastMileTravel": 1.4,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "20-25 mins",
-                        "lastMileTravelString": "1.4 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 22:30:00",
+                        "nextCloseTime": "2024-11-14 01:00:00",
                         "opened": true
                       },
                       "badges": {
                         "imageBadges": [
                           {
-                            "imageId": "Green%20Dot%20Awards/Best%20In%20Dosa.png",
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
                             "description": "Delivery!"
                           }
                         ]
                       },
                       "isOpen": true,
-                      "aggregatedDiscountInfoV2": {
-                        
-                      },
                       "type": "F",
                       "badgesV2": {
                         "entityBadges": {
@@ -1598,7 +1426,7 @@ const Data_Offline = {
                               {
                                 "attributes": {
                                   "description": "Delivery!",
-                                  "imageId": "Green%20Dot%20Awards/Best%20In%20Dosa.png"
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png"
                                 }
                               }
                             ]
@@ -1611,6 +1439,10 @@ const Data_Offline = {
                           }
                         }
                       },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "UPTO ₹50"
+                      },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
                         "differentiatedUiMediaDetails": {
@@ -1631,132 +1463,48 @@ const Data_Offline = {
                       },
                       "externalRatings": {
                         "aggregatedRating": {
-                          "rating": "--"
-                        }
+                          "rating": "4.1",
+                          "ratingCount": "7.9K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
                       },
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/anand-j-road-bistupur-rest154840",
+                      "link": "https://www.swiggy.com/city/patna/kfc-kankarbagh-rest81235",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
-                      "id": "682276",
-                      "name": "Ghousia Hotel",
-                      "cloudinaryImageId": "f9ef5296f0fc6736eee76dd13a395659",
-                      "locality": "Shalini Market",
-                      "areaName": "Sakchi",
-                      "costForTwo": "₹399 for two",
+                      "id": "591085",
+                      "name": "0612 Road Chef",
+                      "cloudinaryImageId": "qo1ypqreeaulytd7cmgr",
+                      "locality": "Sanjay Nagar Road",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹400 for two",
                       "cuisines": [
                         "Chinese",
-                        "Fast Food",
                         "Biryani"
                       ],
-                      "avgRating": 4.3,
-                      "parentId": "87315",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "6.9K+",
+                      "avgRating": 4.4,
+                      "parentId": "22680",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "15K+",
                       "sla": {
                         "deliveryTime": 28,
-                        "lastMileTravel": 2.9,
+                        "lastMileTravel": 1.2,
                         "serviceability": "SERVICEABLE",
                         "slaString": "25-30 mins",
-                        "lastMileTravelString": "2.9 km",
+                        "lastMileTravelString": "1.2 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹199",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/ghousia-hotel-shalini-market-sakchi-rest682276",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "127034",
-                      "name": "Hotel Ganga Regency",
-                      "cloudinaryImageId": "xkjqvqpxddmglbadffu6",
-                      "locality": "New Baradwari\n",
-                      "areaName": "Sakchi",
-                      "costForTwo": "₹999 for two",
-                      "cuisines": [
-                        "Indian",
-                        "Chinese",
-                        "Tandoor",
-                        "Continental"
-                      ],
-                      "avgRating": 4.4,
-                      "parentId": "99000",
-                      "avgRatingString": "4.4",
-                      "totalRatingsString": "10K+",
-                      "sla": {
-                        "deliveryTime": 32,
-                        "lastMileTravel": 3.5,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "30-35 mins",
-                        "lastMileTravelString": "3.5 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
+                        "nextCloseTime": "2024-11-14 01:00:00",
                         "opened": true
                       },
                       "badges": {
@@ -1790,9 +1538,8 @@ const Data_Offline = {
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹349",
-                        "discountTag": "FLAT DEAL"
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹129"
                       },
                       "differentiatedUi": {
                         "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
@@ -1820,40 +1567,40 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/hotel-ganga-regency-new-baradwari-sakchi-rest127034",
+                      "link": "https://www.swiggy.com/city/patna/0612-road-chef-sanjay-nagar-road-kankarbagh-rest591085",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
-                      "id": "477628",
+                      "id": "712099",
                       "name": "Grameen Kulfi",
-                      "cloudinaryImageId": "eedvjwpobxgiuc1i8lgy",
-                      "locality": "Outer Circle Road",
-                      "areaName": "Bistupur",
+                      "cloudinaryImageId": "930b886678eb9de74b5a3150bdd0f405",
+                      "locality": "Hanuman Nagar",
+                      "areaName": "Kailash Puri Road",
                       "costForTwo": "₹120 for two",
                       "cuisines": [
                         "Ice Cream",
                         "Desserts"
                       ],
-                      "avgRating": 4.8,
+                      "avgRating": 4.7,
                       "veg": true,
                       "parentId": "12175",
-                      "avgRatingString": "4.8",
-                      "totalRatingsString": "607",
+                      "avgRatingString": "4.7",
+                      "totalRatingsString": "229",
                       "sla": {
-                        "deliveryTime": 20,
-                        "lastMileTravel": 2.3,
+                        "deliveryTime": 25,
+                        "lastMileTravel": 2.8,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "20-25 mins",
-                        "lastMileTravelString": "2.3 km",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "2.8 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
+                        "nextCloseTime": "2024-11-14 00:00:00",
                         "opened": true
                       },
                       "badges": {
@@ -1916,816 +1663,146 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/grameen-kulfi-outer-circle-road-bistupur-rest477628",
+                      "link": "https://www.swiggy.com/city/patna/grameen-kulfi-hanuman-nagar-kailash-puri-road-rest712099",
                       "type": "WEBLINK"
                     }
                   },
                   {
                     "info": {
-                      "id": "558957",
-                      "name": "Tandoori Hut - Multicuisine Restaurant",
-                      "cloudinaryImageId": "yp2grazbnrbh6ucmala8",
-                      "locality": "Outer Circle Road\n",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹449 for two",
-                      "cuisines": [
-                        "North Indian",
-                        "Chinese",
-                        "Biryani",
-                        "Punjabi",
-                        "Tandoor",
-                        "Indian"
-                      ],
-                      "avgRating": 4.5,
-                      "parentId": "472979",
-                      "avgRatingString": "4.5",
-                      "totalRatingsString": "1.7K+",
-                      "sla": {
-                        "deliveryTime": 31,
-                        "lastMileTravel": 2.4,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "30-35 mins",
-                        "lastMileTravelString": "2.4 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "aggregatedDiscountInfoV2": {
-                        
-                      },
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/tandoori-hut-multicuisine-restaurant-outer-circle-road-bistupur-rest558957",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "364460",
-                      "name": "Sai Regency",
-                      "cloudinaryImageId": "bm0gztzd2s8romaeiija",
-                      "locality": "Ambagan",
-                      "areaName": "Sakchi",
-                      "costForTwo": "₹699 for two",
-                      "cuisines": [
-                        "Indian",
-                        "Biryani",
-                        "Chinese",
-                        "Tandoor",
-                        "Continental"
-                      ],
-                      "avgRating": 4.2,
-                      "parentId": "175417",
-                      "avgRatingString": "4.2",
-                      "totalRatingsString": "4.7K+",
-                      "sla": {
-                        "deliveryTime": 36,
-                        "lastMileTravel": 2.9,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "35-40 mins",
-                        "lastMileTravelString": "2.9 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹249",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/sai-regency-ambagan-sakchi-rest364460",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "109264",
-                      "name": "Kolkata Alishan Biryani",
-                      "cloudinaryImageId": "hefsmw7lu3eguvfyf2c6",
-                      "locality": "Tank Road \n",
-                      "areaName": "Sakchi",
-                      "costForTwo": "₹200 for two",
-                      "cuisines": [
-                        "Biryani",
-                        "Indian"
-                      ],
-                      "avgRating": 4.2,
-                      "parentId": "119861",
-                      "avgRatingString": "4.2",
-                      "totalRatingsString": "1.9K+",
-                      "sla": {
-                        "deliveryTime": 22,
-                        "lastMileTravel": 3,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "20-25 mins",
-                        "lastMileTravelString": "3.0 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "aggregatedDiscountInfoV2": {
-                        
-                      },
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/kolkata-alishan-biryani-tank-road-sakchi-rest109264",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "390901",
-                      "name": "Delhi Darbar (Sakchi )",
-                      "cloudinaryImageId": "yziuedxncvqfcolnm7to",
-                      "locality": "Ambagan",
-                      "areaName": "Sakchi",
-                      "costForTwo": "₹399 for two",
-                      "cuisines": [
-                        "Indian",
-                        "Biryani",
-                        "Tandoor",
-                        "Chinese",
-                        "rolls"
-                      ],
-                      "avgRating": 4.3,
-                      "parentId": "244554",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "4.4K+",
-                      "sla": {
-                        "deliveryTime": 24,
-                        "lastMileTravel": 2.7,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "20-25 mins",
-                        "lastMileTravelString": "2.7 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 22:30:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "aggregatedDiscountInfoV2": {
-                        
-                      },
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/delhi-darbar-sakchi-ambagan-sakchi-rest390901",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "249488",
-                      "name": "New Kolkata Biryani (Sakchi)",
-                      "cloudinaryImageId": "m90drfks474wqywlvq8e",
-                      "locality": "Momdan Line\n",
-                      "areaName": "Sakchi",
-                      "costForTwo": "₹149 for two",
-                      "cuisines": [
-                        "Biryani"
-                      ],
-                      "avgRating": 4.3,
-                      "parentId": "147024",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "7.3K+",
-                      "sla": {
-                        "deliveryTime": 36,
-                        "lastMileTravel": 2.9,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "35-40 mins",
-                        "lastMileTravelString": "2.9 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "10% OFF",
-                        "subHeader": "ABOVE ₹699",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/new-kolkata-biryani-sakchi-momdan-line-sakchi-rest249488",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "637222",
+                      "id": "728518",
                       "name": "Goila Butter Chicken",
-                      "cloudinaryImageId": "5e19832da032dd69547565e27104706f",
-                      "locality": "KALI MATI ROAD",
-                      "areaName": "Sakchi",
+                      "cloudinaryImageId": "2acf0681a049dea7dac7271cf7ccc560",
+                      "locality": "Ashok Nagar",
+                      "areaName": "Kankarbagh",
                       "costForTwo": "₹600 for two",
                       "cuisines": [
                         "North Indian",
                         "Biryani",
-                        "Mughlai"
+                        "Kebabs",
+                        "Desserts"
                       ],
-                      "avgRating": 4.5,
+                      "avgRating": 4.3,
                       "parentId": "322587",
-                      "avgRatingString": "4.5",
-                      "totalRatingsString": "231",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "565",
                       "sla": {
                         "deliveryTime": 35,
-                        "lastMileTravel": 3,
+                        "lastMileTravel": 1.4,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "35-40 mins",
-                        "lastMileTravelString": "3.0 km",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "1.4 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-09 00:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹249",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/goila-butter-chicken-kali-mati-road-sakchi-rest637222",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "785268",
-                      "name": "Dum Safar Biryani",
-                      "cloudinaryImageId": "3cb695e25c8c351a51dbe19c7eaa438a",
-                      "locality": "Jamshedpur Sadar",
-                      "areaName": "SINGHBHUM",
-                      "costForTwo": "₹500 for two",
-                      "cuisines": [
-                        "Biryani",
-                        "Kebabs",
-                        "Tandoor",
-                        "Indian",
-                        "Desserts"
-                      ],
-                      "avgRating": 4.3,
-                      "parentId": "351013",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "148",
-                      "sla": {
-                        "deliveryTime": 20,
-                        "lastMileTravel": 1.1,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "15-20 mins",
-                        "lastMileTravelString": "1.1 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:30:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "ITEMS",
-                        "subHeader": "AT ₹129"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/dum-safar-biryani-sadar-singhbhum-rest785268",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "785270",
-                      "name": "Barbeque Nation",
-                      "cloudinaryImageId": "da9e6dc00745e08c060d2c7dc25e780c",
-                      "locality": "Jamshedpur Sadar",
-                      "areaName": "SINGHBHUM",
-                      "costForTwo": "₹600 for two",
-                      "cuisines": [
-                        "Barbecue",
-                        "Biryani",
-                        "Kebabs",
-                        "Mughlai",
-                        "Desserts"
-                      ],
-                      "avgRating": 4.1,
-                      "parentId": "2438",
-                      "avgRatingString": "4.1",
-                      "totalRatingsString": "341",
-                      "sla": {
-                        "deliveryTime": 21,
-                        "lastMileTravel": 1.1,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "20-25 mins",
-                        "lastMileTravelString": "1.1 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:30:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "ITEMS",
-                        "subHeader": "AT ₹149"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/barbeque-nation-sadar-singhbhum-rest785270",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "155892",
-                      "name": "ZBC (Zabardast Biryani Corner)",
-                      "cloudinaryImageId": "ebetl3vele6yo4ke3xbp",
-                      "locality": "Straight Mile Road",
-                      "areaName": "Vijaya Garden",
-                      "costForTwo": "₹399 for two",
-                      "cuisines": [
-                        "Indian",
-                        "Chinese",
-                        "Beverages",
-                        "Biryani",
-                        "Mughlai",
-                        "Tandoor"
-                      ],
-                      "avgRating": 4,
-                      "parentId": "229765",
-                      "avgRatingString": "4.0",
-                      "totalRatingsString": "6.5K+",
-                      "sla": {
-                        "deliveryTime": 36,
-                        "lastMileTravel": 4.1,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "35-40 mins",
-                        "lastMileTravelString": "4.1 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-09 00:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹199",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/zbc-zabardast-biryani-corner-straight-mile-road-vijaya-garden-rest155892",
-                      "type": "WEBLINK"
-                    }
-                  },
-                  {
-                    "info": {
-                      "id": "437616",
-                      "name": "Haldiram's Prabhuji",
-                      "cloudinaryImageId": "awljiisrja79uuvvgtxx",
-                      "locality": "Outer Circle Road",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹300 for two",
-                      "cuisines": [
-                        "North Indian",
-                        "South Indian",
-                        "Chinese",
-                        "Beverages"
-                      ],
-                      "avgRating": 4.3,
-                      "veg": true,
-                      "parentId": "2945",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "1.5K+",
-                      "sla": {
-                        "deliveryTime": 29,
-                        "lastMileTravel": 2.3,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "25-30 mins",
-                        "lastMileTravelString": "2.3 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 21:00:00",
+                        "nextCloseTime": "2024-11-14 00:00:00",
                         "opened": true
                       },
                       "badges": {
                         "imageBadges": [
                           {
-                            "imageId": "Rxawards/_CATEGORY-Mithai.png",
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Gourmet",
+                                  "imageId": "newg.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹125 OFF",
+                        "subHeader": "ABOVE ₹249",
+                        "discountTag": "FLAT DEAL"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/goila-butter-chicken-ashok-nagar-kankarbagh-rest728518",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "524423",
+                      "name": "La Pino'z Pizza",
+                      "cloudinaryImageId": "tnjwc1hltzaudqyilpzq",
+                      "locality": "Malahi Pakadi Chowk",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Pizzas",
+                        "Pastas",
+                        "Italian",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.1,
+                      "parentId": "4961",
+                      "avgRatingString": "4.1",
+                      "totalRatingsString": "5.4K+",
+                      "sla": {
+                        "deliveryTime": 28,
+                        "lastMileTravel": 2.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "2.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-14 05:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
                             "description": "Delivery!"
                           }
                         ]
@@ -2739,7 +1816,405 @@ const Data_Offline = {
                               {
                                 "attributes": {
                                   "description": "Delivery!",
-                                  "imageId": "Rxawards/_CATEGORY-Mithai.png"
+                                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/la-pinoz-pizza-malahi-pakadi-chowk-kankarbagh-rest524423",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "384886",
+                      "name": "The Belgian Waffle Co.",
+                      "cloudinaryImageId": "5116a385bac0548e06c33c08350fbf11",
+                      "locality": "PC Colony",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Waffle",
+                        "Desserts",
+                        "Ice Cream",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.6,
+                      "veg": true,
+                      "parentId": "2233",
+                      "avgRatingString": "4.6",
+                      "totalRatingsString": "1.3K+",
+                      "sla": {
+                        "deliveryTime": 45,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {
+                        
+                      },
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/the-belgian-waffle-co-pc-colony-kankarbagh-rest384886",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "682863",
+                      "name": "Khyati's Kitchen",
+                      "cloudinaryImageId": "97ac64a29439854fbcc66f9482587c13",
+                      "locality": "Sanjay Nagar",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Mughlai"
+                      ],
+                      "avgRating": 4.3,
+                      "parentId": "407630",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "1.8K+",
+                      "sla": {
+                        "deliveryTime": 27,
+                        "lastMileTravel": 1.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "1.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-14 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png",
+                            "description": "OnlyOnSwiggy"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "OnlyOnSwiggy",
+                                  "imageId": "v1690360529/Ratnesh_Badges/Only_on_swiggy_badge_4x.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "30% OFF",
+                        "subHeader": "UPTO ₹150",
+                        "discountTag": "SAVE BIG"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/khyatis-kitchen-sanjay-nagar-kankarbagh-rest682863",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "803885",
+                      "name": "Baskin Robbins - Ice Cream Desserts",
+                      "cloudinaryImageId": "81a8622d54d9226943f29899df0e3510",
+                      "locality": "Lodipur Budh Marg",
+                      "areaName": "Ambuja City Centre Mall",
+                      "costForTwo": "₹250 for two",
+                      "cuisines": [
+                        "Desserts",
+                        "Ice Cream"
+                      ],
+                      "avgRating": 4.5,
+                      "veg": true,
+                      "parentId": "5588",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "15",
+                      "sla": {
+                        "deliveryTime": 40,
+                        "lastMileTravel": 3.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "3.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 21:30:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Green%20Dot%20Awards/Best%20In%20Ice%20cream.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Green%20Dot%20Awards/Best%20In%20Ice%20cream.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/baskin-robbins-ice-cream-desserts-lodipur-budh-marg-ambuja-city-centre-mall-rest803885",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "659435",
+                      "name": "Krishnashree",
+                      "cloudinaryImageId": "779fe291c901340e065dd6d64b742b9d",
+                      "locality": "Rajendra Path",
+                      "areaName": "Ambition Ojha Plaza, Kadam Kuan",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Sweets",
+                        "Fast Food",
+                        "North Indian",
+                        "Bakery",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.4,
+                      "veg": true,
+                      "parentId": "484388",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "8.0K+",
+                      "sla": {
+                        "deliveryTime": 35,
+                        "lastMileTravel": 3.9,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "3.9 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 22:30:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Green%20Dot%20Awards/Best%20In%20Chole%20Bhature.png",
+                            "description": "Delivery!"
+                          },
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Chole%20Bhature.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Green%20Dot%20Awards/Best%20In%20Chole%20Bhature.png"
+                                }
+                              },
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Rxawards/_CATEGORY-Chole%20Bhature.png"
                                 }
                               }
                             ]
@@ -2754,7 +2229,7 @@ const Data_Offline = {
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "₹100 OFF",
-                        "subHeader": "ABOVE ₹399",
+                        "subHeader": "ABOVE ₹499",
                         "discountTag": "FLAT DEAL"
                       },
                       "differentiatedUi": {
@@ -2783,10 +2258,645 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/haldirams-prabhuji-outer-circle-road-bistupur-rest437616",
+                      "link": "https://www.swiggy.com/city/patna/krishnashree-rajendra-path-ambition-ojha-plaza-kadam-kuan-rest659435",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "221504",
+                      "name": "Well Food",
+                      "cloudinaryImageId": "dpaj42ojdef7ntgv3hlo",
+                      "locality": "Kankarbagh",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "North Indian"
+                      ],
+                      "avgRating": 3.9,
+                      "parentId": "225606",
+                      "avgRatingString": "3.9",
+                      "totalRatingsString": "13K+",
+                      "sla": {
+                        "deliveryTime": 32,
+                        "lastMileTravel": 1.6,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "1.6 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-14 02:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.7",
+                          "ratingCount": "2.3K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/well-food-kankarbagh-rest221504",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "650233",
+                      "name": "Veer Ji Malai Chaap Wale",
+                      "cloudinaryImageId": "ea5e6f3521a1b76de25f43be8b43b4bd",
+                      "locality": "Kankarbagh",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Tandoor",
+                        "Snacks",
+                        "Biryani"
+                      ],
+                      "avgRating": 4.2,
+                      "parentId": "12056",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "966",
+                      "sla": {
+                        "deliveryTime": 32,
+                        "lastMileTravel": 2.7,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "2.7 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "₹175 OFF",
+                        "subHeader": "ABOVE ₹349",
+                        "headerTypeV2": "HEADER_TYPE_V2_TOP_UP",
+                        "secondaryDiscountCallout": "+ EXTRA ₹25 OFF"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.6",
+                          "ratingCount": "273"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/veer-ji-malai-chaap-wale-kankarbagh-rest650233",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "87401",
+                      "name": "Amrapali Cafe",
+                      "cloudinaryImageId": "xuzh778frvo2c8oi81d2",
+                      "locality": "Beer Chand Patel Marg",
+                      "areaName": "Fraser Road",
+                      "costForTwo": "₹700 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Chinese"
+                      ],
+                      "avgRating": 4.4,
+                      "parentId": "31959",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "12K+",
+                      "sla": {
+                        "deliveryTime": 35,
+                        "lastMileTravel": 4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "4.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 22:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "UPTO ₹50"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/amrapali-cafe-beer-chand-patel-marg-fraser-road-rest87401",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "492418",
+                      "name": "Sweet Truth - Cake and Desserts",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/4/bf8f7ed2-412f-4c38-a84f-106a9c5c445b_492418.JPG",
+                      "locality": "Patna Sadar",
+                      "areaName": "Boring Road",
+                      "costForTwo": "₹450 for two",
+                      "cuisines": [
+                        "Snacks",
+                        "Bakery",
+                        "Desserts",
+                        "Beverages"
+                      ],
+                      "avgRating": 4.5,
+                      "parentId": "4444",
+                      "avgRatingString": "4.5",
+                      "totalRatingsString": "744",
+                      "sla": {
+                        "deliveryTime": 40,
+                        "lastMileTravel": 5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "40-45 mins",
+                        "lastMileTravelString": "5.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 23:59:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹120"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/sweet-truth-cake-and-desserts-sadar-boring-road-rest492418",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "707051",
+                      "name": "Kwality Walls Ice Cream and More",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/3967a9e5-221f-4af7-8bec-9d5c63551954_707051.JPG",
+                      "locality": "Radha Enterprise",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹200 for two",
+                      "cuisines": [
+                        "Desserts",
+                        "Ice Cream",
+                        "Ice Cream Cakes"
+                      ],
+                      "avgRating": 4.6,
+                      "veg": true,
+                      "parentId": "582",
+                      "avgRatingString": "4.6",
+                      "totalRatingsString": "2.2K+",
+                      "sla": {
+                        "deliveryTime": 21,
+                        "lastMileTravel": 2.8,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "20-25 mins",
+                        "lastMileTravelString": "2.8 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Green%20Dot%20Awards/Best%20In%20Ice%20cream.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Green%20Dot%20Awards/Best%20In%20Ice%20cream.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "40% OFF",
+                        "subHeader": "UPTO ₹80"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/kwality-walls-ice-cream-and-more-radha-enterprise-kankarbagh-rest707051",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "439403",
+                      "name": "Waffcha The European Dessert",
+                      "cloudinaryImageId": "5dd41ea126046ba097106437439d3f7e",
+                      "locality": "People'S Community Hall",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": [
+                        "European",
+                        "Sweets",
+                        "Cakes & Pastries"
+                      ],
+                      "avgRating": 4.3,
+                      "veg": true,
+                      "parentId": "528835",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "2.3K+",
+                      "sla": {
+                        "deliveryTime": 34,
+                        "lastMileTravel": 2.5,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "2.5 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-14 02:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "20% OFF",
+                        "subHeader": "UPTO ₹50"
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/waffcha-the-european-dessert-peoples-community-hall-kankarbagh-rest439403",
+                      "type": "WEBLINK"
+                    }
+                  },
+                  {
+                    "info": {
+                      "id": "88379",
+                      "name": "The Biryani Mall",
+                      "cloudinaryImageId": "amvglpjx4rqlvam9wzj3",
+                      "locality": "Fraser Road Area",
+                      "areaName": "Srikrishnapuri",
+                      "costForTwo": "₹450 for two",
+                      "cuisines": [
+                        "Biryani",
+                        "North Indian",
+                        "Mughlai"
+                      ],
+                      "avgRating": 4.3,
+                      "parentId": "205457",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "2.4K+",
+                      "sla": {
+                        "deliveryTime": 36,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-13 23:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        
+                      },
+                      "isOpen": true,
+                      "aggregatedDiscountInfoV2": {
+                        
+                      },
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "3.8",
+                          "ratingCount": "11K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/the-biryani-mall-fraser-road-area-srikrishnapuri-rest88379",
                       "type": "WEBLINK"
                     }
                   }
@@ -2816,7 +2926,7 @@ const Data_Offline = {
         "card": {
           "card": {
             "@type": "type.googleapis.com/swiggy.seo.widgets.v1.BasicContent",
-            "title": "Restaurants with online food delivery in Jamshedpur",
+            "title": "Restaurants with online food delivery in Patna",
             "id": "popular_restaurants_title"
           }
         }
@@ -2849,7 +2959,7 @@ const Data_Offline = {
                 "title": "Cost: High to Low"
               }
             ],
-            "restaurantCount": 807,
+            "restaurantCount": 1850,
             "facetList": [
               {
                 "label": "Delivery Time",
@@ -2954,14 +3064,6 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "Bhutanese",
-                    "id": "query_bhutanese",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
                     "label": "Bihari",
                     "id": "query_bihari",
                     "analytics": {
@@ -2978,8 +3080,24 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "British",
-                    "id": "query_british",
+                    "label": "Biryani and Beverages",
+                    "id": "query_biryani_and_beverages",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Bubble Tea",
+                    "id": "query_bubble_tea",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Burger",
+                    "id": "query_burger",
                     "analytics": {
                       
                     },
@@ -2988,14 +3106,6 @@ const Data_Offline = {
                   {
                     "label": "Burgers",
                     "id": "query_burgers",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
-                    "label": "Burmese",
-                    "id": "query_burmese",
                     "analytics": {
                       
                     },
@@ -3050,8 +3160,24 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
+                    "label": "Coastal",
+                    "id": "query_coastal",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
                     "label": "Coffee",
                     "id": "query_coffee",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Combos",
+                    "id": "query_combos",
                     "analytics": {
                       
                     },
@@ -3066,8 +3192,32 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
+                    "label": "Default",
+                    "id": "query_default",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Desert",
+                    "id": "query_desert",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
                     "label": "Desserts",
                     "id": "query_desserts",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "European",
+                    "id": "query_european",
                     "analytics": {
                       
                     },
@@ -3082,24 +3232,8 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "French",
-                    "id": "query_french",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
                     "label": "Grill",
                     "id": "query_grill",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
-                    "label": "Gujarati",
-                    "id": "query_gujarati",
                     "analytics": {
                       
                     },
@@ -3154,6 +3288,14 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
+                    "label": "Indonesian",
+                    "id": "query_indonesian",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
                     "label": "Italian",
                     "id": "query_italian",
                     "analytics": {
@@ -3170,8 +3312,16 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "Japanese",
-                    "id": "query_japanese",
+                    "label": "Jain",
+                    "id": "query_jain",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "Juice and shake",
+                    "id": "query_juice_and_shake",
                     "analytics": {
                       
                     },
@@ -3188,14 +3338,6 @@ const Data_Offline = {
                   {
                     "label": "Kebabs",
                     "id": "query_kebabs",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
-                    "label": "Khasi",
-                    "id": "query_khasi",
                     "analytics": {
                       
                     },
@@ -3234,6 +3376,14 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
+                    "label": "Meat",
+                    "id": "query_meat",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
                     "label": "Mediterranean",
                     "id": "query_mediterranean",
                     "analytics": {
@@ -3250,24 +3400,8 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "Middle Eastern",
-                    "id": "query_middle_eastern",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
                     "label": "Momos",
                     "id": "query_momos",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
-                    "label": "Mongolian",
-                    "id": "query_mongolian",
                     "analytics": {
                       
                     },
@@ -3346,14 +3480,6 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "Pizza",
-                    "id": "query_pizza",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
                     "label": "Pizzas",
                     "id": "query_pizzas",
                     "analytics": {
@@ -3394,6 +3520,14 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
+                    "label": "SVANidhi Street Food Vendor",
+                    "id": "query_svanidhi_street_food_vendor",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
                     "label": "Salads",
                     "id": "query_salads",
                     "analytics": {
@@ -3402,16 +3536,16 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "Sandwich",
-                    "id": "query_sandwich",
+                    "label": "Seafood",
+                    "id": "query_seafood",
                     "analytics": {
                       
                     },
                     "openFilter": true
                   },
                   {
-                    "label": "Seafood",
-                    "id": "query_seafood",
+                    "label": "Shawarma",
+                    "id": "query_shawarma",
                     "analytics": {
                       
                     },
@@ -3466,16 +3600,16 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "Tea",
-                    "id": "query_tea",
+                    "label": "Thai",
+                    "id": "query_thai",
                     "analytics": {
                       
                     },
                     "openFilter": true
                   },
                   {
-                    "label": "Thai",
-                    "id": "query_thai",
+                    "label": "Thali",
+                    "id": "query_thali",
                     "analytics": {
                       
                     },
@@ -3498,14 +3632,6 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "Turkish",
-                    "id": "query_turkish",
-                    "analytics": {
-                      
-                    },
-                    "openFilter": true
-                  },
-                  {
                     "label": "Waffle",
                     "id": "query_waffle",
                     "analytics": {
@@ -3522,8 +3648,24 @@ const Data_Offline = {
                     "openFilter": true
                   },
                   {
-                    "label": "pizzas",
-                    "id": "query_pizzas",
+                    "label": "indian",
+                    "id": "query_indian",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "paratha",
+                    "id": "query_paratha",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "pizza",
+                    "id": "query_pizza",
                     "analytics": {
                       
                     },
@@ -3540,6 +3682,22 @@ const Data_Offline = {
                   {
                     "label": "sandwich",
                     "id": "query_sandwich",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "shawarma",
+                    "id": "query_shawarma",
+                    "analytics": {
+                      
+                    },
+                    "openFilter": true
+                  },
+                  {
+                    "label": "veg restaurant",
+                    "id": "query_veg_restaurant",
                     "analytics": {
                       
                     },
@@ -3689,35 +3847,36 @@ const Data_Offline = {
                 "restaurants": [
                   {
                     "info": {
-                      "id": "101351",
-                      "name": "Pizza Hut",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/17/4cfac2b6-a134-4d20-bedd-54aeafa2a554_101351.jpg",
-                      "locality": "Hi Tech City Centre",
-                      "areaName": "Bistupur",
+                      "id": "654087",
+                      "name": "Burger King",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/60497022-434e-4d21-bc0e-813fea770ae5_654087.JPG",
+                      "locality": "SP Verma Road",
+                      "areaName": "Lodipur",
                       "costForTwo": "₹350 for two",
                       "cuisines": [
-                        "Pizzas"
+                        "Burgers",
+                        "American"
                       ],
                       "avgRating": 4.2,
-                      "parentId": "721",
+                      "parentId": "166",
                       "avgRatingString": "4.2",
-                      "totalRatingsString": "5.1K+",
+                      "totalRatingsString": "11K+",
                       "sla": {
-                        "deliveryTime": 46,
-                        "lastMileTravel": 3,
+                        "deliveryTime": 36,
+                        "lastMileTravel": 3.5,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "45-50 mins",
-                        "lastMileTravelString": "3.0 km",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "3.5 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
+                        "nextCloseTime": "2024-11-14 06:00:00",
                         "opened": true
                       },
                       "badges": {
                         "imageBadges": [
                           {
-                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
                             "description": "Delivery!"
                           }
                         ]
@@ -3731,7 +3890,7 @@ const Data_Offline = {
                               {
                                 "attributes": {
                                   "description": "Delivery!",
-                                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png"
                                 }
                               }
                             ]
@@ -3746,7 +3905,7 @@ const Data_Offline = {
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹189"
+                        "subHeader": "AT ₹99"
                       },
                       "orderabilityCommunication": {
                         "title": {
@@ -3789,10 +3948,10 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/pizza-hut-hi-tech-city-centre-bistupur-rest101351",
+                      "link": "https://www.swiggy.com/city/patna/burger-king-sp-verma-road-lodipur-rest654087",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -3800,11 +3959,122 @@ const Data_Offline = {
                   },
                   {
                     "info": {
-                      "id": "97199",
+                      "id": "725082",
+                      "name": "Pizza Hut",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/18/6661c5e8-d8dc-4f85-bda0-8362bd975ded_725082.jpg",
+                      "locality": "Kankar Bagh",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹350 for two",
+                      "cuisines": [
+                        "Pizzas"
+                      ],
+                      "avgRating": 4.2,
+                      "parentId": "721",
+                      "avgRatingString": "4.2",
+                      "totalRatingsString": "1.9K+",
+                      "sla": {
+                        "deliveryTime": 34,
+                        "lastMileTravel": 3,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "3.0 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-14 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Pizza.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Rxawards/_CATEGORY-Pizza.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "50% OFF",
+                        "subHeader": "UPTO ₹100"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/pizza-hut-kankar-bagh-kankarbagh-rest725082",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "info": {
+                      "id": "620953",
                       "name": "Domino's Pizza",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/24/e955ae83-bede-4c3f-97c3-f6c438991c2d_97199.JPG",
-                      "locality": "South Park",
-                      "areaName": "Bistupur",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/24/f11e10fe-7940-4f84-8e8c-b2870cdff553_620953.JPG",
+                      "locality": "Karbighiya",
+                      "areaName": "Kankarbagh",
                       "costForTwo": "₹400 for two",
                       "cuisines": [
                         "Pizzas",
@@ -3812,20 +4082,20 @@ const Data_Offline = {
                         "Pastas",
                         "Desserts"
                       ],
-                      "avgRating": 4.4,
+                      "avgRating": 4.3,
                       "parentId": "2456",
-                      "avgRatingString": "4.4",
-                      "totalRatingsString": "2.7K+",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "879",
                       "sla": {
                         "deliveryTime": 25,
-                        "lastMileTravel": 1.9,
+                        "lastMileTravel": 1.4,
                         "serviceability": "SERVICEABLE",
                         "slaString": "20-25 mins",
-                        "lastMileTravelString": "1.9 km",
+                        "lastMileTravelString": "1.4 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:59:00",
+                        "nextCloseTime": "2024-11-14 03:00:00",
                         "opened": true
                       },
                       "badges": {
@@ -3904,10 +4174,10 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/dominos-pizza-south-park-bistupur-rest97199",
+                      "link": "https://www.swiggy.com/city/patna/dominos-pizza-karbighiya-kankarbagh-rest620953",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -3915,143 +4185,29 @@ const Data_Offline = {
                   },
                   {
                     "info": {
-                      "id": "804610",
-                      "name": "Burger King",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/a5cee281-c25f-494a-8cab-ba7f49acfb03_804610.JPG",
-                      "locality": "P & M Mall",
-                      "areaName": "Jamshedpur",
-                      "costForTwo": "₹350 for two",
-                      "cuisines": [
-                        "Burgers",
-                        "American"
-                      ],
-                      "avgRating": 4.3,
-                      "parentId": "166",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "1.7K+",
-                      "sla": {
-                        "deliveryTime": 43,
-                        "lastMileTravel": 3,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "40-45 mins",
-                        "lastMileTravelString": "3.0 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        "imageBadges": [
-                          {
-                            "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png",
-                            "description": "Delivery!"
-                          }
-                        ]
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            "badgeObject": [
-                              {
-                                "attributes": {
-                                  "description": "Delivery!",
-                                  "imageId": "Green%20Dot%20Awards/Best%20In%20Veg%20Burger.png"
-                                }
-                              }
-                            ]
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "ITEMS",
-                        "subHeader": "AT ₹99"
-                      },
-                      "orderabilityCommunication": {
-                        "title": {
-                          
-                        },
-                        "subTitle": {
-                          
-                        },
-                        "message": {
-                          
-                        },
-                        "customIcon": {
-                          
-                        }
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/burger-king-p-and-m-mall-jamshedpur-rest804610",
-                      "text": "RESTAURANT_MENU",
-                      "type": "WEBLINK"
-                    },
-                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                  },
-                  {
-                    "info": {
-                      "id": "126738",
-                      "name": "KFC",
-                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/0704d315-5159-4ebd-90d9-ebb36572bc4a_126738.JPG",
-                      "locality": "SNP Area",
-                      "areaName": "Sakchi",
+                      "id": "254135",
+                      "name": "McDonald's",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/22/be4a4734-451a-46bc-9b3c-c8efe92b68f0_254135.JPG",
+                      "locality": "Gardanibagh",
+                      "areaName": "Golambar",
                       "costForTwo": "₹400 for two",
                       "cuisines": [
-                        "Burgers",
-                        "Fast Food",
-                        "Rolls & Wraps"
+                        "American"
                       ],
                       "avgRating": 4.4,
-                      "parentId": "547",
+                      "parentId": "630",
                       "avgRatingString": "4.4",
-                      "totalRatingsString": "9.8K+",
+                      "totalRatingsString": "18K+",
                       "sla": {
-                        "deliveryTime": 26,
-                        "lastMileTravel": 2.7,
+                        "deliveryTime": 37,
+                        "lastMileTravel": 4.5,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "25-30 mins",
-                        "lastMileTravelString": "2.7 km",
+                        "slaString": "35-40 mins",
+                        "lastMileTravelString": "4.5 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-09 02:00:00",
+                        "nextCloseTime": "2024-11-14 01:00:00",
                         "opened": true
                       },
                       "badges": {
@@ -4086,7 +4242,7 @@ const Data_Offline = {
                       },
                       "aggregatedDiscountInfoV3": {
                         "header": "ITEMS",
-                        "subHeader": "AT ₹179"
+                        "subHeader": "AT ₹129"
                       },
                       "orderabilityCommunication": {
                         "title": {
@@ -4123,16 +4279,19 @@ const Data_Offline = {
                       },
                       "externalRatings": {
                         "aggregatedRating": {
-                          "rating": "--"
-                        }
+                          "rating": "4.1",
+                          "ratingCount": "23K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
                       },
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/kfc-snp-area-sakchi-rest126738",
+                      "link": "https://www.swiggy.com/city/patna/mcdonalds-gardanibagh-golambar-rest254135",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4140,44 +4299,54 @@ const Data_Offline = {
                   },
                   {
                     "info": {
-                      "id": "129550",
-                      "name": "Asian Inn",
-                      "cloudinaryImageId": "e25f8d3921204c82a1f63e5e2b9a4b22",
-                      "locality": "Dhatidih Market Road",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹799 for two",
+                      "id": "81235",
+                      "name": "KFC",
+                      "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/681ee978-c071-4989-bb27-32e5cc7643f9_81235.JPG",
+                      "locality": "Kankarbagh",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹450 for two",
                       "cuisines": [
-                        "Indian",
-                        "Biryani",
-                        "Chinese",
-                        "Tandoor",
-                        "Momos"
+                        "Burgers",
+                        "Fast Food",
+                        "Rolls & Wraps"
                       ],
-                      "avgRating": 4.3,
-                      "parentId": "37195",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "15K+",
+                      "avgRating": 4.4,
+                      "parentId": "547",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "9.1K+",
                       "sla": {
-                        "deliveryTime": 29,
-                        "lastMileTravel": 0.3,
+                        "deliveryTime": 32,
+                        "lastMileTravel": 2.7,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "25-30 mins",
-                        "lastMileTravelString": "0.3 km",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "2.7 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
+                        "nextCloseTime": "2024-11-14 01:00:00",
                         "opened": true
                       },
                       "badges": {
-                        
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-Burger.png",
+                            "description": "Delivery!"
+                          }
+                        ]
                       },
                       "isOpen": true,
                       "type": "F",
                       "badgesV2": {
                         "entityBadges": {
                           "imageBased": {
-                            
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Rxawards/_CATEGORY-Burger.png"
+                                }
+                              }
+                            ]
                           },
                           "textBased": {
                             
@@ -4188,9 +4357,123 @@ const Data_Offline = {
                         }
                       },
                       "aggregatedDiscountInfoV3": {
-                        "header": "₹150 OFF",
-                        "subHeader": "ABOVE ₹349",
-                        "discountTag": "FLAT DEAL"
+                        "header": "20% OFF",
+                        "subHeader": "UPTO ₹50"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "4.1",
+                          "ratingCount": "7.9K+"
+                        },
+                        "source": "GOOGLE",
+                        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/kfc-kankarbagh-rest81235",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "info": {
+                      "id": "591085",
+                      "name": "0612 Road Chef",
+                      "cloudinaryImageId": "qo1ypqreeaulytd7cmgr",
+                      "locality": "Sanjay Nagar Road",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹400 for two",
+                      "cuisines": [
+                        "Chinese",
+                        "Biryani"
+                      ],
+                      "avgRating": 4.4,
+                      "parentId": "22680",
+                      "avgRatingString": "4.4",
+                      "totalRatingsString": "15K+",
+                      "sla": {
+                        "deliveryTime": 28,
+                        "lastMileTravel": 1.2,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "1.2 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-14 01:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "Rxawards/_CATEGORY-North%20Indian.png",
+                            "description": "Delivery!"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Delivery!",
+                                  "imageId": "Rxawards/_CATEGORY-North%20Indian.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
+                            
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "ITEMS",
+                        "subHeader": "AT ₹129"
                       },
                       "orderabilityCommunication": {
                         "title": {
@@ -4233,10 +4516,10 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/asian-inn-dhatidih-market-road-bistupur-rest129550",
+                      "link": "https://www.swiggy.com/city/patna/0612-road-chef-sanjay-nagar-road-kankarbagh-rest591085",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -4244,40 +4527,168 @@ const Data_Offline = {
                   },
                   {
                     "info": {
-                      "id": "665455",
-                      "name": "New Kolkata Royal Biryani",
-                      "cloudinaryImageId": "be2bfa3b5dde1e71b41144e9b62878a9",
-                      "locality": "B Block",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹249 for two",
+                      "id": "712099",
+                      "name": "Grameen Kulfi",
+                      "cloudinaryImageId": "930b886678eb9de74b5a3150bdd0f405",
+                      "locality": "Hanuman Nagar",
+                      "areaName": "Kailash Puri Road",
+                      "costForTwo": "₹120 for two",
                       "cuisines": [
-                        "Biryani"
+                        "Ice Cream",
+                        "Desserts"
                       ],
-                      "avgRating": 4,
-                      "parentId": "147028",
-                      "avgRatingString": "4.0",
-                      "totalRatingsString": "2.2K+",
+                      "avgRating": 4.7,
+                      "veg": true,
+                      "parentId": "12175",
+                      "avgRatingString": "4.7",
+                      "totalRatingsString": "229",
                       "sla": {
-                        "deliveryTime": 11,
-                        "lastMileTravel": 0.5,
+                        "deliveryTime": 25,
+                        "lastMileTravel": 2.8,
                         "serviceability": "SERVICEABLE",
-                        "slaString": "10-15 mins",
-                        "lastMileTravelString": "0.5 km",
+                        "slaString": "25-30 mins",
+                        "lastMileTravelString": "2.8 km",
                         "iconType": "ICON_TYPE_EMPTY"
                       },
                       "availability": {
-                        "nextCloseTime": "2024-11-08 22:30:00",
+                        "nextCloseTime": "2024-11-14 00:00:00",
                         "opened": true
                       },
                       "badges": {
-                        
+                        "imageBadges": [
+                          {
+                            "imageId": "v1695133679/badges/Pure_Veg111.png",
+                            "description": "pureveg"
+                          }
+                        ]
                       },
                       "isOpen": true,
                       "type": "F",
                       "badgesV2": {
                         "entityBadges": {
                           "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "pureveg",
+                                  "imageId": "v1695133679/badges/Pure_Veg111.png"
+                                }
+                              }
+                            ]
+                          },
+                          "textBased": {
                             
+                          },
+                          "textExtendedBadges": {
+                            
+                          }
+                        }
+                      },
+                      "aggregatedDiscountInfoV3": {
+                        "header": "60% OFF",
+                        "subHeader": "UPTO ₹110"
+                      },
+                      "orderabilityCommunication": {
+                        "title": {
+                          
+                        },
+                        "subTitle": {
+                          
+                        },
+                        "message": {
+                          
+                        },
+                        "customIcon": {
+                          
+                        }
+                      },
+                      "differentiatedUi": {
+                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                        "differentiatedUiMediaDetails": {
+                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                          "lottie": {
+                            
+                          },
+                          "video": {
+                            
+                          }
+                        }
+                      },
+                      "reviewsSummary": {
+                        
+                      },
+                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+                      "restaurantOfferPresentationInfo": {
+                        
+                      },
+                      "externalRatings": {
+                        "aggregatedRating": {
+                          "rating": "--"
+                        }
+                      },
+                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+                    },
+                    "analytics": {
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
+                    },
+                    "cta": {
+                      "link": "https://www.swiggy.com/city/patna/grameen-kulfi-hanuman-nagar-kailash-puri-road-rest712099",
+                      "text": "RESTAURANT_MENU",
+                      "type": "WEBLINK"
+                    },
+                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+                  },
+                  {
+                    "info": {
+                      "id": "728518",
+                      "name": "Goila Butter Chicken",
+                      "cloudinaryImageId": "2acf0681a049dea7dac7271cf7ccc560",
+                      "locality": "Ashok Nagar",
+                      "areaName": "Kankarbagh",
+                      "costForTwo": "₹600 for two",
+                      "cuisines": [
+                        "North Indian",
+                        "Biryani",
+                        "Kebabs",
+                        "Desserts"
+                      ],
+                      "avgRating": 4.3,
+                      "parentId": "322587",
+                      "avgRatingString": "4.3",
+                      "totalRatingsString": "565",
+                      "sla": {
+                        "deliveryTime": 35,
+                        "lastMileTravel": 1.4,
+                        "serviceability": "SERVICEABLE",
+                        "slaString": "30-35 mins",
+                        "lastMileTravelString": "1.4 km",
+                        "iconType": "ICON_TYPE_EMPTY"
+                      },
+                      "availability": {
+                        "nextCloseTime": "2024-11-14 00:00:00",
+                        "opened": true
+                      },
+                      "badges": {
+                        "imageBadges": [
+                          {
+                            "imageId": "newg.png",
+                            "description": "Gourmet"
+                          }
+                        ]
+                      },
+                      "isOpen": true,
+                      "type": "F",
+                      "badgesV2": {
+                        "entityBadges": {
+                          "imageBased": {
+                            "badgeObject": [
+                              {
+                                "attributes": {
+                                  "description": "Gourmet",
+                                  "imageId": "newg.png"
+                                }
+                              }
+                            ]
                           },
                           "textBased": {
                             
@@ -4333,224 +4744,10 @@ const Data_Offline = {
                       "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
                     },
                     "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
+                      "context": "seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b"
                     },
                     "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/new-kolkata-royal-biryani-b-block-bistupur-rest665455",
-                      "text": "RESTAURANT_MENU",
-                      "type": "WEBLINK"
-                    },
-                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                  },
-                  {
-                    "info": {
-                      "id": "154840",
-                      "name": "Anand",
-                      "cloudinaryImageId": "virdsxocivnjsi71vsys",
-                      "locality": "J Road",
-                      "areaName": "Bistupur",
-                      "costForTwo": "₹299 for two",
-                      "cuisines": [
-                        "South Indian",
-                        "Chinese"
-                      ],
-                      "avgRating": 4.6,
-                      "veg": true,
-                      "parentId": "7181",
-                      "avgRatingString": "4.6",
-                      "totalRatingsString": "6.5K+",
-                      "sla": {
-                        "deliveryTime": 22,
-                        "lastMileTravel": 1.4,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "20-25 mins",
-                        "lastMileTravelString": "1.4 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 22:30:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        "imageBadges": [
-                          {
-                            "imageId": "Green%20Dot%20Awards/Best%20In%20Dosa.png",
-                            "description": "Delivery!"
-                          }
-                        ]
-                      },
-                      "isOpen": true,
-                      "aggregatedDiscountInfoV2": {
-                        
-                      },
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            "badgeObject": [
-                              {
-                                "attributes": {
-                                  "description": "Delivery!",
-                                  "imageId": "Green%20Dot%20Awards/Best%20In%20Dosa.png"
-                                }
-                              }
-                            ]
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "orderabilityCommunication": {
-                        "title": {
-                          
-                        },
-                        "subTitle": {
-                          
-                        },
-                        "message": {
-                          
-                        },
-                        "customIcon": {
-                          
-                        }
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/anand-j-road-bistupur-rest154840",
-                      "text": "RESTAURANT_MENU",
-                      "type": "WEBLINK"
-                    },
-                    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
-                  },
-                  {
-                    "info": {
-                      "id": "682276",
-                      "name": "Ghousia Hotel",
-                      "cloudinaryImageId": "f9ef5296f0fc6736eee76dd13a395659",
-                      "locality": "Shalini Market",
-                      "areaName": "Sakchi",
-                      "costForTwo": "₹399 for two",
-                      "cuisines": [
-                        "Chinese",
-                        "Fast Food",
-                        "Biryani"
-                      ],
-                      "avgRating": 4.3,
-                      "parentId": "87315",
-                      "avgRatingString": "4.3",
-                      "totalRatingsString": "6.9K+",
-                      "sla": {
-                        "deliveryTime": 28,
-                        "lastMileTravel": 2.9,
-                        "serviceability": "SERVICEABLE",
-                        "slaString": "25-30 mins",
-                        "lastMileTravelString": "2.9 km",
-                        "iconType": "ICON_TYPE_EMPTY"
-                      },
-                      "availability": {
-                        "nextCloseTime": "2024-11-08 23:00:00",
-                        "opened": true
-                      },
-                      "badges": {
-                        
-                      },
-                      "isOpen": true,
-                      "type": "F",
-                      "badgesV2": {
-                        "entityBadges": {
-                          "imageBased": {
-                            
-                          },
-                          "textBased": {
-                            
-                          },
-                          "textExtendedBadges": {
-                            
-                          }
-                        }
-                      },
-                      "aggregatedDiscountInfoV3": {
-                        "header": "₹125 OFF",
-                        "subHeader": "ABOVE ₹199",
-                        "discountTag": "FLAT DEAL"
-                      },
-                      "orderabilityCommunication": {
-                        "title": {
-                          
-                        },
-                        "subTitle": {
-                          
-                        },
-                        "message": {
-                          
-                        },
-                        "customIcon": {
-                          
-                        }
-                      },
-                      "differentiatedUi": {
-                        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
-                        "differentiatedUiMediaDetails": {
-                          "mediaType": "ADS_MEDIA_ENUM_IMAGE",
-                          "lottie": {
-                            
-                          },
-                          "video": {
-                            
-                          }
-                        }
-                      },
-                      "reviewsSummary": {
-                        
-                      },
-                      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
-                      "restaurantOfferPresentationInfo": {
-                        
-                      },
-                      "externalRatings": {
-                        "aggregatedRating": {
-                          "rating": "--"
-                        }
-                      },
-                      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
-                    },
-                    "analytics": {
-                      "context": "seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6"
-                    },
-                    "cta": {
-                      "link": "https://www.swiggy.com/city/jamshedpur/ghousia-hotel-shalini-market-sakchi-rest682276",
+                      "link": "https://www.swiggy.com/city/patna/goila-butter-chicken-ashok-nagar-kankarbagh-rest728518",
                       "text": "RESTAURANT_MENU",
                       "type": "WEBLINK"
                     },
@@ -7636,11 +7833,11 @@ const Data_Offline = {
         "card": {
           "card": {
             "@type": "type.googleapis.com/swiggy.seo.widgets.v1.MetaContext",
-            "citySlug": "jamshedpur",
-            "lat": "22.80570",
-            "lng": "86.18040",
+            "citySlug": "patna",
+            "lat": "25.59080",
+            "lng": "85.13480",
             "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
-            "gandalfRequest": "{\"sortAttribute\":\"relevance\",\"isFiltered\":false,\"queryId\":\"seo-data-005a0f9b-9915-4874-b898-a08bd30bd1a6\",\"seoParams\":{\"apiName\":\"FoodHomePage\",\"brandId\":\"\",\"seoUrl\":\"www.swiggy.com\",\"pageType\":\"FOOD_HOME_PAGE\",\"businessLine\":\"FOOD\"}}",
+            "gandalfRequest": "{\"sortAttribute\":\"relevance\",\"isFiltered\":false,\"queryId\":\"seo-data-ea3c4e09-0583-4a01-a4ca-a896ae619b8b\",\"seoParams\":{\"apiName\":\"FoodHomePage\",\"brandId\":\"\",\"seoUrl\":\"www.swiggy.com\",\"pageType\":\"FOOD_HOME_PAGE\",\"businessLine\":\"FOOD\"}}",
             "id": "meta_data",
             "metaInfo": {
               "pageType": "FOOD_HOME_PAGE",
@@ -7656,8 +7853,8 @@ const Data_Offline = {
               "businessLine": "FOOD"
             },
             "pageContext": {
-              "citySlug": "jamshedpur",
-              "cityName": "Jamshedpur",
+              "citySlug": "patna",
+              "cityName": "Patna",
               "pageType": "FOOD_HOME_PAGE"
             }
           }
@@ -7668,9 +7865,9 @@ const Data_Offline = {
     "cacheExpiryTime": 240,
     "nextFetch": 1
   },
-  "tid": "c28aa008-9393-4e9f-adfd-a6223fb74ac4",
-  "sid": "h4jf8252-7b9e-4222-9359-aa1828747649",
-  "deviceId": "72136efb-858b-4b53-6e96-ef7d86711976",
-  "csrfToken": "ZLpxuxnlo4ry-dcKdLreUBbMDjWXqnZR1JTPuO7Y"
+  "tid": "4db7e40d-7e87-4293-8f12-92c1d6aeb02b",
+  "sid": "h7w03c8b-e45e-4968-8de3-7aa254ab1dba",
+  "deviceId": "6c4d7b08-2706-0740-c3ba-5761ccd1b73c",
+  "csrfToken": "SaY5MKPfeIJl-mFt5AO3qMl9kXtR1sHa4orhSfT8"
 }
   export default Data_Offline ;
