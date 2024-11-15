@@ -2,6 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLeftLong } from "@fortawesome/free-solid-svg-icons";
 import { faRightLong } from "@fortawesome/free-solid-svg-icons";
 import Card from "./Card";
+import { Link } from "react-router-dom";
 
 const Layer2 = ({data}) =>{
     
@@ -22,7 +23,9 @@ const Layer2 = ({data}) =>{
                 
                 {
                     data.map((x) => (
-                        <Card key={x.info.id} name = {x.info.name} image = {x.info.cloudinaryImageId} area = {x.info.areaName} rating = {x.info.avgRating} time = {x.info.sla.slaString} menu = {x.info.cuisines} items = {x.info.aggregatedDiscountInfoV3}/>
+                        <Link className="links" key={x.info.id} to={"/restaurant/" + x.info.id}>
+                            <Card  name = {x.info.name} image = {x.info.cloudinaryImageId} area = {x.info.areaName} rating = {x.info.avgRating} time = {x.info.sla.slaString} menu = {x.info.cuisines} items = {x.info.aggregatedDiscountInfoV3}/>
+                        </Link>
                     ))
                 }
                

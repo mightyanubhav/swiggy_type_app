@@ -369,3 +369,7 @@
     margin: 25px;
     background-color: gray;
 }
+.links{
+    text-decoration: none;
+    color: #22262B;
+}

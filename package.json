@@ -2,7 +2,6 @@
   "name": "swiggy_type_app",
   "version": "1.0.0",
   "description": "An app just like swiggy",
-  "main": "App.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",

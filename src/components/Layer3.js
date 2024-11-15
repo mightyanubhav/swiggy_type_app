@@ -3,6 +3,7 @@ import Card from "./Card";
 import getData from "./RandomFood";
 import Shimmer from "./Shimmer";
 import { url2 } from "../utils/Constant";
+import { Link } from "react-router-dom";
 
 const Layer3 = ({ data }) => {
     const [listOfRestaurant, setListOfRestaurant] = useState([]);
@@ -79,8 +80,8 @@ const Layer3 = ({ data }) => {
             </div>
             <div className="layer3-cards">
                 {tempListOfRestaurant.map((x) => (
-                    <Card
-                        key={x.info.id}
+                    <Link className="links" key={x.info.id} to={"/restaurant/" + x.info.id}>
+                        <Card
                         name={x.info.name}
                         image={x.info.cloudinaryImageId}
                         area={x.info.areaName}
@@ -88,7 +89,8 @@ const Layer3 = ({ data }) => {
                         time={x.info.sla.slaString}
                         menu={x.info.cuisines}
                         items={x.info.aggregatedDiscountInfoV3}
-                    />
+                        />
+                    </Link>
                 ))}
             </div>
         </div>

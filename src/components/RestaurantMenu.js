@@ -1,37 +1,49 @@
 import { useEffect, useState } from "react";
-import { ITEM_URL, ITEM_URL2, ITEM_URL3 } from "../utils/Constant";
+import { ITEM_URL, ITEM_URL2 } from "../utils/Constant";
 import getData from "./RandomFood";
 import Shimmer from "./Shimmer";
+import { useParams } from "react-router-dom";
 
-// https://www.swiggy.com/city/patna/pizza-hut-kankar-bagh-kankarbagh-rest725082
-const RestaurantMenu = () =>{
+const RestaurantMenu = () => {
+  const [resInfo, setResInfo] = useState(null);
+  const { resId } = useParams();
 
-    const [resInfo, setResInfo] = useState(null);
+  console.log(resId);
+  const fetchData = async (url) => {
+    try {
+      const list = await getData(`${url}/${resId}`);
+      console.log(list);
+      setResInfo(list);
+    } catch (error) {
+      console.error("Failed to fetch data:", error);
+    }
+  };
 
+  useEffect(() => {
+    fetchData(ITEM_URL);
+  }, []);
 
-    const fetchData = async (url, setData) => {
-        try {
-            const list = await getData(url);
-            setData(list);
-            console.log(list);
-        } catch (error) {
-            console.error("Failed to fetch data:", error);
-        }
-    };
-    
-    useEffect(() => {
-        fetchData(ITEM_URL, setResInfo);
-        fetchData(ITEM_URL2, setResInfo);
-        fetchData(ITEM_URL3, setResInfo);
-    }, [ITEM_URL, ITEM_URL2, ITEM_URL3, setResInfo]);
+  const name = resInfo?.data?.cards?.[0]?.card?.card?.text || "Restaurant Name";
+  const values = resInfo?.data?.cards?.[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards?.[2]?.card?.card?.itemCards || [];
 
-    return resInfo === null ?  (<Shimmer />) : 
-     (
-        <div className="restaurant-menu">
-            <h1>This is header</h1>
-            <h2>This is restaurant menu card</h2>
-            <h3>{resInfo?.data?.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[0]?.card?.card?.vegOnlyDetails?.description}</h3>
-        </div>
-    );
-}
+  return resInfo === null ? (
+    <Shimmer />
+  ) : (
+    <div className="restaurant-menu">
+      <h1>This is header</h1>
+      <h3>{name}</h3>
+      <div className="menu-items">
+        {values?.map((item, index) => (
+          <div key={index} className="menu-item">
+            <h4>{item?.card?.info?.name}</h4>
+            <p>{item?.card?.info?.description}</p>
+            <p>Price: {item?.card?.info?.defaultPrice || "N/A"}</p>
+          </div>
+        ))}
+        <h4>If the data is not coming properly , that means API configuration has been changed</h4>
+      </div>
+    </div>
+  );
+};
+
 export default RestaurantMenu;

@@ -54,7 +54,7 @@ const Header = () => {
                         </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faCartShopping} />
-                            <Link to="/cart" className="custom-link"> Cart </Link>
+                            <Link to="/search" className="custom-link"> Cart </Link>
                         </div>
                     </div>
                 </div>
