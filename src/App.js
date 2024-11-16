@@ -68,28 +68,10 @@ const appRouter = createBrowserRouter([
 
 let root = ReactDOM.createRoot(document.getElementById("root"));
 
-const originalWarn = console.warn;
-console.warn = (...args) => {
-    if (args[0]?.includes('React Router Future Flag Warning')) {
-        return; // Suppress the warning
-    }
-    originalWarn(...args);
-};
-
-
 root.render(
-    <RouterProvider 
-        router={appRouter} 
-        future={{
-            v7_startTransition: true,
-            v7_relativeSplatPath: true,
-            v7_fetcherPersist: true,
-            v7_normalizeFormMethod: true,
-            v7_partialHydration: true,
-            v7_skipActionErrorRevalidation: true,
-        }} 
-    />
+    <BrowserRouter basename="/swiggy_type_app">
+        <RouterProvider router={appRouter} />
+    </BrowserRouter>
 );
-
 
 

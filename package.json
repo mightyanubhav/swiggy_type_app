@@ -5,7 +5,9 @@
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
-    "test": "jest"
+    "test": "jest",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/mightyanubhav/swiggy_type_app/issues"
   },
-  "homepage": "https://github.com/mightyanubhav/swiggy_type_app#readme",
+  "homepage": "https://github.com/mightyanubhav/swiggy_type_app",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
@@ -28,6 +30,7 @@
     "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.2.0",
     "parcel": "^2.13.0",
     "process": "^0.11.10"
   }
