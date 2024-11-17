@@ -1,27 +1,12 @@
-import { useEffect, useState } from "react";
-import { ITEM_URL, ITEM_URL2 } from "../utils/Constant";
-import getData from "./RandomFood";
+import { ITEM_URL } from "../utils/Constant";
 import Shimmer from "./Shimmer";
 import { useParams } from "react-router-dom";
+import useRestaurantMenuInfo from "../utils/useRestaurantMenuInfo";
 
 const RestaurantMenu = () => {
-  const [resInfo, setResInfo] = useState(null);
+ 
   const { resId } = useParams();
-
-  console.log(resId);
-  const fetchData = async (url) => {
-    try {
-      const list = await getData(`${url}/${resId}`);
-      console.log(list);
-      setResInfo(list);
-    } catch (error) {
-      console.error("Failed to fetch data:", error);
-    }
-  };
-
-  useEffect(() => {
-    fetchData(ITEM_URL);
-  }, []);
+  const resInfo = useRestaurantMenuInfo(ITEM_URL, resId);
 
   const name = resInfo?.data?.cards?.[0]?.card?.card?.text || "Restaurant Name";
   const values = resInfo?.data?.cards?.[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards?.[2]?.card?.card?.itemCards || [];
