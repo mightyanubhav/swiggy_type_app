@@ -69,9 +69,9 @@ const appRouter = createBrowserRouter([
 let root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-    <BrowserRouter basename="/swiggy_type_app">
+    
         <RouterProvider router={appRouter} />
-    </BrowserRouter>
+   
 );
 
 
