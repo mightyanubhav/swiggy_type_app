@@ -5,7 +5,6 @@ import Tiles from "./Tiles";
 
 
 const Layer1 = ({data}) =>{
-    // console.log(data);
     return (
         <div className="mind-container">
                     <div className="mind-text">
@@ -21,7 +20,6 @@ const Layer1 = ({data}) =>{
                     </div>
                     <div className="mind-image">
                         {data.map((x) => (
-                            // console.log(x.imageId);
                             <Tiles key={x.id} id = {x.id} image = {x.imageId} />
                         ))}
                         

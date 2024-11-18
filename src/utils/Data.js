@@ -78,7 +78,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "750579",
@@ -99,7 +100,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750581",
@@ -120,7 +122,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "750587",
@@ -141,7 +144,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "750589",
@@ -162,7 +166,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750222",
@@ -183,7 +188,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750131",
@@ -204,7 +210,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "749768",
@@ -225,7 +232,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "750201",
@@ -246,7 +254,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "749868",
@@ -267,7 +276,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "749772",
@@ -288,7 +298,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "749876",
@@ -309,7 +320,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750571",
@@ -330,7 +342,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "750596",
@@ -351,7 +364,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "true",
                 },
                 {
                   "id": "750635",
@@ -372,7 +386,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750216",
@@ -393,7 +408,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750260",
@@ -414,7 +430,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750206",
@@ -435,7 +452,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750248",
@@ -456,7 +474,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 },
                 {
                   "id": "750208",
@@ -477,7 +496,8 @@ const Data_Offline = {
                   },
                   "externalMarketing": {
                     
-                  }
+                  },
+                  "promoted": "false",
                 }
               ],
               "style": {
@@ -998,6 +1018,7 @@ const Data_Offline = {
                 "restaurants": [
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "654087",
                       "name": "Burger King",
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/11/60497022-434e-4d21-bc0e-813fea770ae5_654087.JPG",
@@ -1093,6 +1114,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "620953",
                       "name": "Domino's Pizza",
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/24/f11e10fe-7940-4f84-8e8c-b2870cdff553_620953.JPG",
@@ -1191,6 +1213,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "725082",
                       "name": "Pizza Hut",
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/7/18/6661c5e8-d8dc-4f85-bda0-8362bd975ded_725082.jpg",
@@ -1285,6 +1308,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "254135",
                       "name": "McDonald's",
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/10/22/be4a4734-451a-46bc-9b3c-c8efe92b68f0_254135.JPG",
@@ -1382,6 +1406,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "81235",
                       "name": "KFC",
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/5/681ee978-c071-4989-bb27-32e5cc7643f9_81235.JPG",
@@ -1481,6 +1506,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "591085",
                       "name": "0612 Road Chef",
                       "cloudinaryImageId": "qo1ypqreeaulytd7cmgr",
@@ -1576,6 +1602,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "712099",
                       "name": "Grameen Kulfi",
                       "cloudinaryImageId": "930b886678eb9de74b5a3150bdd0f405",
@@ -1672,6 +1699,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "728518",
                       "name": "Goila Butter Chicken",
                       "cloudinaryImageId": "2acf0681a049dea7dac7271cf7ccc560",
@@ -1770,6 +1798,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "524423",
                       "name": "La Pino'z Pizza",
                       "cloudinaryImageId": "tnjwc1hltzaudqyilpzq",
@@ -1868,6 +1897,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "384886",
                       "name": "The Belgian Waffle Co.",
                       "cloudinaryImageId": "5116a385bac0548e06c33c08350fbf11",
@@ -1965,6 +1995,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "682863",
                       "name": "Khyati's Kitchen",
                       "cloudinaryImageId": "97ac64a29439854fbcc66f9482587c13",
@@ -2061,6 +2092,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "803885",
                       "name": "Baskin Robbins - Ice Cream Desserts",
                       "cloudinaryImageId": "81a8622d54d9226943f29899df0e3510",
@@ -2157,6 +2189,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "659435",
                       "name": "Krishnashree",
                       "cloudinaryImageId": "779fe291c901340e065dd6d64b742b9d",
@@ -2267,6 +2300,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "221504",
                       "name": "Well Food",
                       "cloudinaryImageId": "dpaj42ojdef7ntgv3hlo",
@@ -2353,6 +2387,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "650233",
                       "name": "Veer Ji Malai Chaap Wale",
                       "cloudinaryImageId": "ea5e6f3521a1b76de25f43be8b43b4bd",
@@ -2454,6 +2489,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "87401",
                       "name": "Amrapali Cafe",
                       "cloudinaryImageId": "xuzh778frvo2c8oi81d2",
@@ -2549,6 +2585,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "492418",
                       "name": "Sweet Truth - Cake and Desserts",
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/4/bf8f7ed2-412f-4c38-a84f-106a9c5c445b_492418.JPG",
@@ -2634,6 +2671,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "707051",
                       "name": "Kwality Walls Ice Cream and More",
                       "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/6/13/3967a9e5-221f-4af7-8bec-9d5c63551954_707051.JPG",
@@ -2731,6 +2769,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "false",
                       "id": "439403",
                       "name": "Waffcha The European Dessert",
                       "cloudinaryImageId": "5dd41ea126046ba097106437439d3f7e",
@@ -2816,6 +2855,7 @@ const Data_Offline = {
                   },
                   {
                     "info": {
+                      "promoted": "true",
                       "id": "88379",
                       "name": "The Biryani Mall",
                       "cloudinaryImageId": "amvglpjx4rqlvam9wzj3",

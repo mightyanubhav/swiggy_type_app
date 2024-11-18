@@ -12,7 +12,7 @@
     color: #414448;
     box-shadow: 5px 0 15px rgba(0, 0, 0, 0.3);
     position:fixed;
-    z-index: 1;
+    z-index: 5;
 }
 
 .in-header {
@@ -372,4 +372,11 @@
 .links{
     text-decoration: none;
     color: #22262B;
+}
+.card-label{
+    position: absolute;
+    background-color: gray;
+    color: white;
+    border-radius: 5px;
+    z-index: 1;
 }
