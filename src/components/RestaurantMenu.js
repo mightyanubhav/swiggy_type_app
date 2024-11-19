@@ -29,11 +29,12 @@ const RestaurantMenu = () => {
     <div className="restaurant-menu">
       <div className="restaurant-menu-inside">
         <h2>{name}</h2>
+      
       </div>
       <div className="menu-items">
         {
           filteredList.map((x, idx)=>(
-            <RestaurantCategory id ={idx} data={x?.card?.card}/>
+            <RestaurantCategory key ={idx} data={x?.card?.card}/>
           ))
         }
         <h4>If the data is not coming properly , that means API configuration has been changed</h4>
