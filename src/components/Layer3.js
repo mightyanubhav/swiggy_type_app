@@ -1,9 +1,10 @@
-import { useEffect, useState } from "react";
+import { useEffect, useState, useContext } from "react";
 import Card, { withPromotedLabel } from "./Card";
 import getData from "./RandomFood";
 import Shimmer from "./Shimmer";
 import { url2 } from "../utils/Constant";
 import { Link } from "react-router-dom";
+import UserContext from "../utils/UserContext";
 
 const Layer3 = ({ data }) => {
   const [listOfRestaurant, setListOfRestaurant] = useState([]);
@@ -20,13 +21,17 @@ const Layer3 = ({ data }) => {
   const fetchRestaurants = async () => {
     try {
       const list = await getData(url2);
-      console.log(data);
+     
       setListOfRestaurant(data);
       setTempListOfRestaurant(data);
     } catch (error) {
       console.error("Failed to fetch data:", error);
     }
   };
+
+  const {loggedInUser} = useContext(UserContext);
+  console.log(loggedInUser);
+
 
   return listOfRestaurant.length === 0 ? (
     <Shimmer />
@@ -79,6 +84,7 @@ const Layer3 = ({ data }) => {
           >
             Search
           </button>
+          
         </div>
       </div>
       <div className="layer3-cards">
