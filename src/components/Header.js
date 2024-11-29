@@ -11,7 +11,6 @@ import { Link } from "react-router-dom";
 import { useSelector } from "react-redux";
 
 const Header = () => {
-// subscribing to store using selector.
 
     const cartItems = useSelector((store) => store.cart.items);
 
@@ -37,9 +36,17 @@ const Header = () => {
                     <div className="space"></div>
 
                     <div className="nav-items">
+                    <div className="nav-content">
+                            <FontAwesomeIcon className="icon" icon={faUser} />
+                            <Link to="/#" className="custom-link"> Sign</Link>
+                        </div>
+                        <div className="nav-content">
+                            <FontAwesomeIcon className="icon" icon={faCartShopping} />
+                            <Link to="/cart" className="custom-link">Cart({cartItems.length})</Link>
+                        </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faBriefcase} />
-                            <Link to="/corporate" className="custom-link"> Swiggy Corporate </Link>
+                            <Link to="/corporate" className="custom-link">Corporate </Link>
                             
                         </div>
                         <div className="nav-content">
@@ -54,14 +61,7 @@ const Header = () => {
                             <FontAwesomeIcon className="icon" icon={faCircleInfo} />
                             <Link to="/help" className="custom-link"> Help </Link>
                         </div>
-                        <div className="nav-content">
-                            <FontAwesomeIcon className="icon" icon={faUser} />
-                            <Link to="/sign-in" className="custom-link"> Sign in </Link>
-                        </div>
-                        <div className="nav-content">
-                            <FontAwesomeIcon className="icon" icon={faCartShopping} />
-                            <Link to="/search" className="custom-link"> Cart ({cartItems.length}) </Link>
-                        </div>
+                       
                     </div>
                 </div>
             </div>
