@@ -8,7 +8,13 @@ import { faCircleInfo } from "@fortawesome/free-solid-svg-icons";
 import { faUser } from "@fortawesome/free-regular-svg-icons";
 import { faCartShopping } from "@fortawesome/free-solid-svg-icons";
 import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
+
 const Header = () => {
+// subscribing to store using selector.
+
+    const cartItems = useSelector((store) => store.cart.items);
+
     return (
         <div className="header">
             <div className="in-header">
@@ -54,7 +60,7 @@ const Header = () => {
                         </div>
                         <div className="nav-content">
                             <FontAwesomeIcon className="icon" icon={faCartShopping} />
-                            <Link to="/search" className="custom-link"> Cart </Link>
+                            <Link to="/search" className="custom-link"> Cart ({cartItems.length}) </Link>
                         </div>
                     </div>
                 </div>

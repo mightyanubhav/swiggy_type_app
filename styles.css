@@ -436,3 +436,10 @@
     padding: 2px;
     padding-left: 10px;
 }
+.add-item-button{
+    padding: 2px 7px 2px 7px;
+    margin: 2px 10px 2px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}

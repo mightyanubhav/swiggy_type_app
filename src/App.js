@@ -12,13 +12,17 @@ import Help from './components/Help';
 import SignIn from './components/SignIn';
 import Cart from './components/Cart';
 import RestaurantMenu from './components/RestaurantMenu';
+import { Provider } from 'react-redux';
+import appStore from './utils/appStore';
 
 const Component = () =>{
     return (
-        <div className="wrapper">
-            <Header/>
-            <Outlet/>
-        </div>
+        <Provider store={appStore}>
+            <div className="wrapper">
+                <Header/>
+                <Outlet/>
+            </div>
+        </Provider>
    );
 }
 
@@ -69,9 +73,8 @@ const appRouter = createBrowserRouter([
 let root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-    
+
         <RouterProvider router={appRouter} />
-   
 );
 
 
